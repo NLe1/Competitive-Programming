@@ -1,7 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fce5370e-af9f-4d70-b303-6e8afb9c11cf" name="Default Changelist" comment="" />
+    <list default="true" id="fce5370e-af9f-4d70-b303-6e8afb9c11cf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode- Remove Duplicates from Sorted Array II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode-2 Keys Keyboard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode-Binary Search Tree to Greater Sum Tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode-Champagne Tower.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode-Domino and Tromino Tiling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode-Flip String to Monotone Increasing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode-Longest Substring with At Least K Repeating Characters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode-Maximum Depth of N-ary Tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode-Maximum Width of Binary Tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode-Merge Two Binary Trees.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode-N-ary Tree Postorder Traversal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode-N-ary Tree Preorder Traversal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode-Open the Lock.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode-Range Sum of BST.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode-Replace Words.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode-Russian Doll Envelopes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode-Search in a Binary Search Tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode-Single Number II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode-Subarray Sum Equals K.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode-Univalued Binary Tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode-Word Subsets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Number of Enclaves.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Competitive Programming.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Competitive Programming.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +41,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1QkcdH3WnQSFUg6qoqlza1GIxMi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -56,8 +88,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.main">
-    <configuration name="anotherFile" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Leetcode-Open the Lock">
+    <configuration name="Leetcode-Champagne Tower" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Competitive Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -65,12 +97,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Leetcode" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/anotherFile.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/Leetcode-Champagne Tower.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -79,7 +111,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Leetcode-Flip String to Monotone Increasing" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Competitive Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -87,12 +119,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Leetcode" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Kattis/Kattis-Minor Setback.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/Leetcode-Flip String to Monotone Increasing.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -101,7 +133,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Leetcode-Open the Lock" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Competitive Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -109,12 +141,56 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Leetcode" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/Leetcode-Open the Lock.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Leetcode-Replace Words" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Competitive Programming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Leetcode" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/Leetcode-Replace Words.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Leetcode-Russian Doll Envelopes" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Competitive Programming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Leetcode" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/Leetcode-Russian Doll Envelopes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -125,9 +201,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.anotherFile" />
+        <item itemvalue="Python.Leetcode-Open the Lock" />
+        <item itemvalue="Python.Leetcode-Champagne Tower" />
+        <item itemvalue="Python.Leetcode-Flip String to Monotone Increasing" />
+        <item itemvalue="Python.Leetcode-Russian Doll Envelopes" />
+        <item itemvalue="Python.Leetcode-Replace Words" />
       </list>
     </recent_temporary>
   </component>
@@ -170,12 +248,35 @@
       <workItem from="1572329892948" duration="2507000" />
       <workItem from="1572418208431" duration="340000" />
       <workItem from="1572466139146" duration="17937000" />
-      <workItem from="1572763510486" duration="4253000" />
+      <workItem from="1572763510486" duration="4685000" />
+      <workItem from="1572813495050" duration="6463000" />
+      <workItem from="1573703639351" duration="19519000" />
+      <workItem from="1573891973949" duration="296000" />
+      <workItem from="1573895032279" duration="97000" />
+      <workItem from="1573947121494" duration="3409000" />
+      <workItem from="1574064554741" duration="17000" />
+      <workItem from="1574281511113" duration="175000" />
+      <workItem from="1574281751534" duration="67000" />
+      <workItem from="1574299607164" duration="412000" />
+      <workItem from="1574301410224" duration="10791000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -190,11 +291,72 @@
           <line>47</line>
           <option name="timeStamp" value="41" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Leetcode/Leetcode-Binary Search Tree to Greater Sum Tree.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Leetcode/Leetcode-Maximum Width of Binary Tree.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Leetcode/Number of Enclaves.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Leetcode/Leetcode-Longest Substring with At Least K Repeating Characters.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Leetcode/Leetcode-Replace Words.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Leetcode/Leetcode-Russian Doll Envelopes.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Leetcode/Leetcode-Russian Doll Envelopes.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Leetcode/Leetcode-Champagne Tower.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Leetcode/Leetcode-Open the Lock.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Longest_Well_Performing_Interval.coverage" NAME="Leetcode-Longest Well-Performing Interval Coverage Results" MODIFIED="1573762841668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Number_of_Enclaves.coverage" NAME="Number of Enclaves Coverage Results" MODIFIED="1573767008042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Open_the_Lock.coverage" NAME="Leetcode-Open the Lock Coverage Results" MODIFIED="1574322082362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Word_Subsets.coverage" NAME="Leetcode-Word Subsets Coverage Results" MODIFIED="1573778382334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode__Remove_Duplicates_from_Sorted_Array_II.coverage" NAME="Leetcode- Remove Duplicates from Sorted Array II Coverage Results" MODIFIED="1573792039851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Merge_Two_Binary_Trees.coverage" NAME="Leetcode-Merge Two Binary Trees Coverage Results" MODIFIED="1573704600970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Longest_Substring_with_At_Least_K_Repeating_Characters.coverage" NAME="Leetcode-Longest Substring with At Least K Repeating Characters Coverage Results" MODIFIED="1573793632473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Binary_Search_Tree_to_Greater_Sum_Tree.coverage" NAME="Leetcode-Binary Search Tree to Greater Sum Tree Coverage Results" MODIFIED="1573707398779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Russian_Doll_Envelopes.coverage" NAME="Leetcode-Russian Doll Envelopes Coverage Results" MODIFIED="1574305628070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Flip_String_to_Monotone_Increasing.coverage" NAME="Leetcode-Flip String to Monotone Increasing Coverage Results" MODIFIED="1574309621790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
     <SUITE FILE_PATH="coverage/pythonlearning$main.coverage" NAME="main Coverage Results" MODIFIED="1572762911968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Champagne_Tower.coverage" NAME="Leetcode-Champagne Tower Coverage Results" MODIFIED="1574317392716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Maximum_Width_of_Binary_Tree.coverage" NAME="Leetcode-Maximum Width of Binary Tree Coverage Results" MODIFIED="1573711132040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$main.coverage" NAME="main Coverage Results" MODIFIED="1572816147085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_2_Keys_Keyboard.coverage" NAME="Leetcode-2 Keys Keyboard Coverage Results" MODIFIED="1573790648899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Replace_Words.coverage" NAME="Leetcode-Replace Words Coverage Results" MODIFIED="1573948186517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Domino_and_Tromino_Tiling.coverage" NAME="Leetcode-Domino and Tromino Tiling Coverage Results" MODIFIED="1573788084221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
     <SUITE FILE_PATH="coverage/pythonlearning$test.coverage" NAME="test Coverage Results" MODIFIED="1572664287423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonlearning$anotherFile.coverage" NAME="anotherFile Coverage Results" MODIFIED="1572134140459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
