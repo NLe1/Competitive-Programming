@@ -1,35 +1,14 @@
-from collections import Counter
-
 class Solution:
     def longestCommonSubsequence(self, text1: str, text2: str) -> int:
-        c1 = Counter(list(text1))
-        c2 = Counter(list(text2))
-        for ch in c2.keys():
-            c1[ch] = max(c1.get(ch,0), c2[ch])
-        ans = []
-        i = 0
-        while i < len(text1) and i < len(text2):
-            ch1,ch2 = text1[i], text2[i]
-            if c1[ch1] > 0:
-                ans.append(ch1)
-                c1[ch1]-=1
-            if c1[ch2] > 0:
-                ans.append(ch2)
-                c1[ch2]-=1
-            i+=1
-        while i < len(text1):
-            ch1 = text1[i]
-            if c1[ch1] > 0:
-                ans.append(ch1)
-                c1[ch1] -= 1
-            i+=1
-        while i < len(text2):
-            ch2 = text2[i]
-            if c1[ch2] > 0:
-                ans.append(ch2)
-                c1[ch2] -= 1
-            i+=1
-        return "".join(ans)
+        dp = [[0] * (len(text2) + 1) for _ in range(len(text1) + 1)]
+        for i in range(1, len(text1) + 1):
+            for j in range(1, len(text2) + 1):
+                if text1[i - 1] == text2[j - 1]:
+                    dp[i][j] = dp[i - 1][j - 1] + 1
+                else:
+                    dp[i][j] = max(dp[i - 1][j], dp[i][j - 1])
+        return dp[-1][-1]
+
 
 s = Solution()
 print(s.longestCommonSubsequence("abac"

@@ -22,6 +22,7 @@ class Solution:
         if reachedBoundary: return 0
         else: return ct
 
+    print("THANH NHAN IS THE BEST")
 
 
     def numEnclaves(self, A) -> int:
