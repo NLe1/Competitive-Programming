@@ -2,41 +2,59 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fce5370e-af9f-4d70-b303-6e8afb9c11cf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode- Find Elements in a Contaminated Binary Tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode- Insert Delete GetRandom O(1).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode- Invert Binary Tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode-Best Time to Buy and Sell Stock II.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode-Best Time to Buy and Sell Stock III.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode-Construct Quad Tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode-Diameter of Binary Tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode-Find All Numbers Disappeared in an Array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode-First Unique Character in a String.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode-House Robber.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode-Insert Delete GetRandom O(1) - Duplicates allowed.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode-Intersection of Two Linked Lists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode-Linked List Cycle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode-Longest String Chain.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode-Majority Element.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode-Map Sum Pairs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode-Maximum Depth of Binary Tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode-Min Stack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode-Ones and Zeroes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode-Push Dominoes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode-Reverse Linked List.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode-Shortest Common Supersequence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode-Shortest Unsorted Continuous Subarray.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode-Single Number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode-String Without AAA or BBB.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode-Symmetric Tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode-Uncrossed Lines.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode-Water and Jug Problem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codeforces/1145A Thanos Sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codeforces/393A Nineteen.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterviewBit/MAXSPPROD.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/LRU Cache.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode- Binary Tree Level Order Traversal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode-4Sum II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode-Binary Tree Pruning.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode-Binary Tree Zigzag Level Order Traversal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode-Coin Change.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode-Complete Binary Tree Inserter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode-Construct Binary Tree from Preorder and Inorder Traversal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode-Convert Sorted Array to Binary Search Tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode-Copy List with Random Pointer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode-Daily Temperatures.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode-Excel Sheet Column Number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode-Factorial Trailing Zeroes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode-Find First and Last Position of Element in Sorted Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode-Find Right Interval.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode-FizzBuzz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode-Flatten a Multilevel Doubly Linked List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode-Flower Planting With No Adjacent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode-Generate Parentheses.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode-Group Anagrams.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode-Happy Number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode-Intersection of Two Arrays II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode-Jump Game II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode-LRU Cache.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode-Maximum Level Sum of a Binary Tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode-Maximum Product Subarray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode-Merge Intervals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode-Merge Sorted Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode-Minimum Path Sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode-Next Permutation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode-Palindromic Substrings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode-Partition Array for Maximum Sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode-Pascal's Triangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode-Permutations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode-Plus One.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode-Regions Cut By Slashes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode-Reverse Bits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode-Rotate Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode-Rotate Image.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode-Search in Rotated Sorted Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode-Sort Colors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode-Sum of Two Integers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode-Unique Paths.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode-Valid Palindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode-Validate Binary Search Tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode-Word Search.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/Leetcode-Best Time to Buy and Sell Stock.py" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/Leetcode-Best Time to Buy and Sell Stock.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/Leetcode-Longest Common Subsequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/Leetcode-Longest Common Subsequence.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/Number of Enclaves.py" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/Number of Enclaves.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/Leetcode-Count and Say.py" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/Leetcode-Count and Say.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/anotherFile.py" beforeDir="false" afterPath="$PROJECT_DIR$/anotherFile.py" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,6 +73,11 @@
   <component name="ProjectId" id="1QkcdH3WnQSFUg6qoqlza1GIxMi" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -80,24 +103,12 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Kattis" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Kattis" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Python.Leetcode-Shortest Unsorted Continuous Subarray">
-    <configuration name="Leetcode-Diameter of Binary Tree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Leetcode-Word Search">
+    <configuration name="LRU Cache" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Competitive Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -110,7 +121,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/Leetcode-Diameter of Binary Tree.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/LRU Cache.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -119,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Leetcode-Find All Numbers Disappeared in an Array" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Leetcode-Maximum Product Subarray" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Competitive Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -132,7 +143,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/Leetcode-Find All Numbers Disappeared in an Array.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/Leetcode-Maximum Product Subarray.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,7 +152,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Leetcode-House Robber" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Leetcode-Partition Array for Maximum Sum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Competitive Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -154,7 +165,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/Leetcode-House Robber.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/Leetcode-Partition Array for Maximum Sum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -163,7 +174,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Leetcode-Reverse Linked List" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Leetcode-Word Search" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Competitive Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -176,7 +187,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/Leetcode-Reverse Linked List.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/Leetcode-Word Search.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -185,7 +196,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Leetcode-Shortest Unsorted Continuous Subarray" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="anotherFile" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Competitive Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -193,12 +204,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Leetcode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/Leetcode-Shortest Unsorted Continuous Subarray.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/anotherFile.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -209,13 +220,25 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Leetcode-Shortest Unsorted Continuous Subarray" />
-        <item itemvalue="Python.Leetcode-Diameter of Binary Tree" />
-        <item itemvalue="Python.Leetcode-Find All Numbers Disappeared in an Array" />
-        <item itemvalue="Python.Leetcode-Reverse Linked List" />
-        <item itemvalue="Python.Leetcode-House Robber" />
+        <item itemvalue="Python.Leetcode-Word Search" />
+        <item itemvalue="Python.Leetcode-Maximum Product Subarray" />
+        <item itemvalue="Python.anotherFile" />
+        <item itemvalue="Python.LRU Cache" />
+        <item itemvalue="Python.Leetcode-Partition Array for Maximum Sum" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -278,7 +301,20 @@
       <workItem from="1574846118925" duration="24039000" />
       <workItem from="1574981147493" duration="339000" />
       <workItem from="1575088667636" duration="5748000" />
-      <workItem from="1575191236754" duration="9405000" />
+      <workItem from="1575191236754" duration="25454000" />
+      <workItem from="1575340490626" duration="2558000" />
+      <workItem from="1575344979804" duration="1590000" />
+      <workItem from="1575346891081" duration="12025000" />
+      <workItem from="1575521749997" duration="3333000" />
+      <workItem from="1575765087426" duration="863000" />
+      <workItem from="1576031144033" duration="2546000" />
+      <workItem from="1576562991703" duration="2406000" />
+      <workItem from="1576962310732" duration="4935000" />
+      <workItem from="1577492102256" duration="8000" />
+      <workItem from="1577511980116" duration="6055000" />
+      <workItem from="1577575673909" duration="10618000" />
+      <workItem from="1577673799350" duration="5781000" />
+      <workItem from="1577687912528" duration="2449000" />
     </task>
     <task id="LOCAL-00001" summary="Update 11/20/2019">
       <created>1574322381467</created>
@@ -287,7 +323,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574322381467</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Update 12/01/2019">
+      <created>1575246930300</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1575246930300</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -308,21 +351,138 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Update 11/20/2019" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update 11/20/2019" />
+    <MESSAGE value="Update 12/01/2019" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update 12/01/2019" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2247" y="225" key="#com.jetbrains.python.refactoring.move.PyMakeFunctionTopLevelDialog" timestamp="1577608885953">
+      <screen x="1440" y="-277" width="1920" height="1177" />
+    </state>
+    <state x="2247" y="225" key="#com.jetbrains.python.refactoring.move.PyMakeFunctionTopLevelDialog/0.23.1440.877/1440.-277.1920.1177@1440.-277.1920.1177" timestamp="1577608885953" />
+    <state width="631" height="466" key="DebuggerActiveHint" timestamp="1577681045067">
+      <screen x="-212" y="-1177" width="1920" height="1177" />
+    </state>
+    <state width="631" height="466" key="DebuggerActiveHint/0.23.1440.877/-212.-1177.1920.1177@-212.-1177.1920.1177" timestamp="1577681045067" />
+    <state width="1878" height="578" key="GridCell.Tab.0.bottom" timestamp="1577697386308">
+      <screen x="1440" y="-314" width="1920" height="1177" />
+    </state>
+    <state width="1398" height="394" key="GridCell.Tab.0.bottom/0.0.1440.900/-38.-1177.1920.1177@0.0.1440.900" timestamp="1576634450794" />
+    <state width="1398" height="394" key="GridCell.Tab.0.bottom/0.0.1440.900/-38.-1200.1920.1200@0.0.1440.900" timestamp="1576628011683" />
+    <state width="1398" height="394" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1576033904866" />
+    <state width="1878" height="286" key="GridCell.Tab.0.bottom/0.23.1440.877/-212.-1177.1920.1177@-212.-1177.1920.1177" timestamp="1577692478222" />
+    <state width="1398" height="286" key="GridCell.Tab.0.bottom/0.23.1440.877/-212.-1177.1920.1177@0.23.1440.877" timestamp="1577678401621" />
+    <state width="1878" height="523" key="GridCell.Tab.0.bottom/0.23.1440.877/-38.-1177.1920.1177@-38.-1177.1920.1177" timestamp="1576965906275" />
+    <state width="1398" height="287" key="GridCell.Tab.0.bottom/0.23.1440.877/-38.-1177.1920.1177@0.23.1440.877" timestamp="1577576705205" />
+    <state width="1398" height="287" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.-277.1920.1177@0.23.1440.877" timestamp="1577599779947" />
+    <state width="1878" height="578" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.-277.1920.1177@1440.-277.1920.1177" timestamp="1577616038998" />
+    <state width="1878" height="578" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.-314.1920.1177@1440.-314.1920.1177" timestamp="1577697386308" />
+    <state width="1398" height="438" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1575490613464" />
+    <state width="1878" height="578" key="GridCell.Tab.0.center" timestamp="1577697386307">
+      <screen x="1440" y="-314" width="1920" height="1177" />
+    </state>
+    <state width="1398" height="394" key="GridCell.Tab.0.center/0.0.1440.900/-38.-1177.1920.1177@0.0.1440.900" timestamp="1576634450792" />
+    <state width="1398" height="394" key="GridCell.Tab.0.center/0.0.1440.900/-38.-1200.1920.1200@0.0.1440.900" timestamp="1576628011681" />
+    <state width="1398" height="394" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1576033904865" />
+    <state width="1878" height="286" key="GridCell.Tab.0.center/0.23.1440.877/-212.-1177.1920.1177@-212.-1177.1920.1177" timestamp="1577692478220" />
+    <state width="1398" height="286" key="GridCell.Tab.0.center/0.23.1440.877/-212.-1177.1920.1177@0.23.1440.877" timestamp="1577678401619" />
+    <state width="1878" height="523" key="GridCell.Tab.0.center/0.23.1440.877/-38.-1177.1920.1177@-38.-1177.1920.1177" timestamp="1576965906273" />
+    <state width="1398" height="287" key="GridCell.Tab.0.center/0.23.1440.877/-38.-1177.1920.1177@0.23.1440.877" timestamp="1577576705204" />
+    <state width="1398" height="287" key="GridCell.Tab.0.center/0.23.1440.877/1440.-277.1920.1177@0.23.1440.877" timestamp="1577599779945" />
+    <state width="1878" height="578" key="GridCell.Tab.0.center/0.23.1440.877/1440.-277.1920.1177@1440.-277.1920.1177" timestamp="1577616038997" />
+    <state width="1878" height="578" key="GridCell.Tab.0.center/0.23.1440.877/1440.-314.1920.1177@1440.-314.1920.1177" timestamp="1577697386307" />
+    <state width="1398" height="438" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1575490613463" />
+    <state width="1878" height="578" key="GridCell.Tab.0.left" timestamp="1577697386306">
+      <screen x="1440" y="-314" width="1920" height="1177" />
+    </state>
+    <state width="1398" height="394" key="GridCell.Tab.0.left/0.0.1440.900/-38.-1177.1920.1177@0.0.1440.900" timestamp="1576634450791" />
+    <state width="1398" height="394" key="GridCell.Tab.0.left/0.0.1440.900/-38.-1200.1920.1200@0.0.1440.900" timestamp="1576628011680" />
+    <state width="1398" height="394" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1576033904864" />
+    <state width="1878" height="286" key="GridCell.Tab.0.left/0.23.1440.877/-212.-1177.1920.1177@-212.-1177.1920.1177" timestamp="1577692478220" />
+    <state width="1398" height="286" key="GridCell.Tab.0.left/0.23.1440.877/-212.-1177.1920.1177@0.23.1440.877" timestamp="1577678401619" />
+    <state width="1878" height="523" key="GridCell.Tab.0.left/0.23.1440.877/-38.-1177.1920.1177@-38.-1177.1920.1177" timestamp="1576965906273" />
+    <state width="1398" height="287" key="GridCell.Tab.0.left/0.23.1440.877/-38.-1177.1920.1177@0.23.1440.877" timestamp="1577576705203" />
+    <state width="1398" height="287" key="GridCell.Tab.0.left/0.23.1440.877/1440.-277.1920.1177@0.23.1440.877" timestamp="1577599779945" />
+    <state width="1878" height="578" key="GridCell.Tab.0.left/0.23.1440.877/1440.-277.1920.1177@1440.-277.1920.1177" timestamp="1577616038997" />
+    <state width="1878" height="578" key="GridCell.Tab.0.left/0.23.1440.877/1440.-314.1920.1177@1440.-314.1920.1177" timestamp="1577697386306" />
+    <state width="1398" height="438" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1575490613462" />
+    <state width="1878" height="578" key="GridCell.Tab.0.right" timestamp="1577697386308">
+      <screen x="1440" y="-314" width="1920" height="1177" />
+    </state>
+    <state width="1398" height="394" key="GridCell.Tab.0.right/0.0.1440.900/-38.-1177.1920.1177@0.0.1440.900" timestamp="1576634450793" />
+    <state width="1398" height="394" key="GridCell.Tab.0.right/0.0.1440.900/-38.-1200.1920.1200@0.0.1440.900" timestamp="1576628011682" />
+    <state width="1398" height="394" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1576033904865" />
+    <state width="1878" height="286" key="GridCell.Tab.0.right/0.23.1440.877/-212.-1177.1920.1177@-212.-1177.1920.1177" timestamp="1577692478221" />
+    <state width="1398" height="286" key="GridCell.Tab.0.right/0.23.1440.877/-212.-1177.1920.1177@0.23.1440.877" timestamp="1577678401620" />
+    <state width="1878" height="523" key="GridCell.Tab.0.right/0.23.1440.877/-38.-1177.1920.1177@-38.-1177.1920.1177" timestamp="1576965906274" />
+    <state width="1398" height="287" key="GridCell.Tab.0.right/0.23.1440.877/-38.-1177.1920.1177@0.23.1440.877" timestamp="1577576705204" />
+    <state width="1398" height="287" key="GridCell.Tab.0.right/0.23.1440.877/1440.-277.1920.1177@0.23.1440.877" timestamp="1577599779946" />
+    <state width="1878" height="578" key="GridCell.Tab.0.right/0.23.1440.877/1440.-277.1920.1177@1440.-277.1920.1177" timestamp="1577616038997" />
+    <state width="1878" height="578" key="GridCell.Tab.0.right/0.23.1440.877/1440.-314.1920.1177@1440.-314.1920.1177" timestamp="1577697386308" />
+    <state width="1398" height="438" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1575490613463" />
+    <state width="1878" height="578" key="GridCell.Tab.1.bottom" timestamp="1577697386310">
+      <screen x="1440" y="-314" width="1920" height="1177" />
+    </state>
+    <state width="1398" height="438" key="GridCell.Tab.1.bottom/0.0.1440.900/-38.-1177.1920.1177@0.0.1440.900" timestamp="1575444372111" />
+    <state width="1398" height="438" key="GridCell.Tab.1.bottom/0.0.1440.900/-38.-1200.1920.1200@0.0.1440.900" timestamp="1575531188327" />
+    <state width="1398" height="438" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1575578172063" />
+    <state width="1878" height="578" key="GridCell.Tab.1.bottom/0.23.1440.877/-212.-1177.1920.1177@-212.-1177.1920.1177" timestamp="1577692453224" />
+    <state width="1878" height="581" key="GridCell.Tab.1.bottom/0.23.1440.877/-38.-1177.1920.1177@-38.-1177.1920.1177" timestamp="1576963410245" />
+    <state width="1398" height="411" key="GridCell.Tab.1.bottom/0.23.1440.877/-38.-1177.1920.1177@0.23.1440.877" timestamp="1577576582918" />
+    <state width="1878" height="578" key="GridCell.Tab.1.bottom/0.23.1440.877/1440.-277.1920.1177@1440.-277.1920.1177" timestamp="1577616038999" />
+    <state width="1878" height="578" key="GridCell.Tab.1.bottom/0.23.1440.877/1440.-314.1920.1177@1440.-314.1920.1177" timestamp="1577697386310" />
+    <state width="1398" height="438" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1575490613467" />
+    <state width="1878" height="578" key="GridCell.Tab.1.center" timestamp="1577697386309">
+      <screen x="1440" y="-314" width="1920" height="1177" />
+    </state>
+    <state width="1398" height="438" key="GridCell.Tab.1.center/0.0.1440.900/-38.-1177.1920.1177@0.0.1440.900" timestamp="1575444372108" />
+    <state width="1398" height="438" key="GridCell.Tab.1.center/0.0.1440.900/-38.-1200.1920.1200@0.0.1440.900" timestamp="1575531188326" />
+    <state width="1398" height="438" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1575578172062" />
+    <state width="1878" height="578" key="GridCell.Tab.1.center/0.23.1440.877/-212.-1177.1920.1177@-212.-1177.1920.1177" timestamp="1577692453224" />
+    <state width="1878" height="581" key="GridCell.Tab.1.center/0.23.1440.877/-38.-1177.1920.1177@-38.-1177.1920.1177" timestamp="1576963410244" />
+    <state width="1398" height="411" key="GridCell.Tab.1.center/0.23.1440.877/-38.-1177.1920.1177@0.23.1440.877" timestamp="1577576582917" />
+    <state width="1878" height="578" key="GridCell.Tab.1.center/0.23.1440.877/1440.-277.1920.1177@1440.-277.1920.1177" timestamp="1577616038998" />
+    <state width="1878" height="578" key="GridCell.Tab.1.center/0.23.1440.877/1440.-314.1920.1177@1440.-314.1920.1177" timestamp="1577697386309" />
+    <state width="1398" height="438" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1575490613466" />
+    <state width="1878" height="578" key="GridCell.Tab.1.left" timestamp="1577697386308">
+      <screen x="1440" y="-314" width="1920" height="1177" />
+    </state>
+    <state width="1398" height="438" key="GridCell.Tab.1.left/0.0.1440.900/-38.-1177.1920.1177@0.0.1440.900" timestamp="1575444372106" />
+    <state width="1398" height="438" key="GridCell.Tab.1.left/0.0.1440.900/-38.-1200.1920.1200@0.0.1440.900" timestamp="1575531188325" />
+    <state width="1398" height="438" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1575578172061" />
+    <state width="1878" height="578" key="GridCell.Tab.1.left/0.23.1440.877/-212.-1177.1920.1177@-212.-1177.1920.1177" timestamp="1577692453223" />
+    <state width="1878" height="581" key="GridCell.Tab.1.left/0.23.1440.877/-38.-1177.1920.1177@-38.-1177.1920.1177" timestamp="1576963410244" />
+    <state width="1398" height="411" key="GridCell.Tab.1.left/0.23.1440.877/-38.-1177.1920.1177@0.23.1440.877" timestamp="1577576582917" />
+    <state width="1878" height="578" key="GridCell.Tab.1.left/0.23.1440.877/1440.-277.1920.1177@1440.-277.1920.1177" timestamp="1577616038998" />
+    <state width="1878" height="578" key="GridCell.Tab.1.left/0.23.1440.877/1440.-314.1920.1177@1440.-314.1920.1177" timestamp="1577697386308" />
+    <state width="1398" height="438" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1575490613465" />
+    <state width="1878" height="578" key="GridCell.Tab.1.right" timestamp="1577697386309">
+      <screen x="1440" y="-314" width="1920" height="1177" />
+    </state>
+    <state width="1398" height="438" key="GridCell.Tab.1.right/0.0.1440.900/-38.-1177.1920.1177@0.0.1440.900" timestamp="1575444372109" />
+    <state width="1398" height="438" key="GridCell.Tab.1.right/0.0.1440.900/-38.-1200.1920.1200@0.0.1440.900" timestamp="1575531188326" />
+    <state width="1398" height="438" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1575578172063" />
+    <state width="1878" height="578" key="GridCell.Tab.1.right/0.23.1440.877/-212.-1177.1920.1177@-212.-1177.1920.1177" timestamp="1577692453224" />
+    <state width="1878" height="581" key="GridCell.Tab.1.right/0.23.1440.877/-38.-1177.1920.1177@-38.-1177.1920.1177" timestamp="1576963410244" />
+    <state width="1398" height="411" key="GridCell.Tab.1.right/0.23.1440.877/-38.-1177.1920.1177@0.23.1440.877" timestamp="1577576582918" />
+    <state width="1878" height="578" key="GridCell.Tab.1.right/0.23.1440.877/1440.-277.1920.1177@1440.-277.1920.1177" timestamp="1577616038998" />
+    <state width="1878" height="578" key="GridCell.Tab.1.right/0.23.1440.877/1440.-314.1920.1177@1440.-314.1920.1177" timestamp="1577697386309" />
+    <state width="1398" height="438" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1575490613466" />
+    <state width="720" height="450" key="XDebugger.FullValuePopup" timestamp="1575356196874">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="720" height="450" key="XDebugger.FullValuePopup/0.0.1440.900@0.0.1440.900" timestamp="1575356196874" />
+    <state x="2205" y="235" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1577608130052">
+      <screen x="1440" y="-277" width="1920" height="1177" />
+    </state>
+    <state x="2205" y="235" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.877/1440.-277.1920.1177@1440.-277.1920.1177" timestamp="1577608130052" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1575529999253">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900/-38.-1200.1920.1200@0.0.1440.900" timestamp="1575529999253" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/anotherFile.py</url>
-          <line>7</line>
-          <option name="timeStamp" value="40" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/anotherFile.py</url>
-          <line>47</line>
-          <option name="timeStamp" value="41" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Leetcode/Leetcode-Binary Search Tree to Greater Sum Tree.py</url>
           <line>29</line>
@@ -488,6 +648,131 @@
           <line>4</line>
           <option name="timeStamp" value="153" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Leetcode/Leetcode-Count and Say.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="154" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Leetcode/Leetcode-Convert Sorted Array to Binary Search Tree.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="162" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Leetcode/Leetcode-Excel Sheet Column Number.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="164" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Codeforces/1145A Thanos Sort.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="169" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Codeforces/393A Nineteen.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="171" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Leetcode/Leetcode-Happy Number.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="172" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Leetcode/Leetcode-Generate Parentheses.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="174" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Leetcode/Leetcode-Next Permutation.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="175" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Leetcode/Leetcode-Next Permutation.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="176" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Leetcode/Leetcode-Search in Rotated Sorted Array.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="177" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Leetcode/Leetcode-Find First and Last Position of Element in Sorted Array.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="178" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Leetcode/Leetcode-Jump Game II.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="186" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Leetcode/Leetcode-Merge Intervals.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="188" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Leetcode/Leetcode-Minimum Path Sum.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="189" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Leetcode/Leetcode-Sort Colors.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="190" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Leetcode/Leetcode-Daily Temperatures.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="192" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Leetcode/Leetcode-Palindromic Substrings.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="196" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Leetcode/Leetcode-Binary Tree Pruning.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="197" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Leetcode/Leetcode-4Sum II.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="199" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Leetcode/Leetcode-Flower Planting With No Adjacent.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="200" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Leetcode/Leetcode-Regions Cut By Slashes.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="201" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Leetcode/Leetcode-Partition Array for Maximum Sum.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="203" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Leetcode/Leetcode-Maximum Product Subarray.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="209" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Leetcode/Leetcode-Maximum Product Subarray.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="210" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Leetcode/Leetcode-Word Search.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="211" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -499,75 +784,116 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Find_All_Numbers_Disappeared_in_an_Array.coverage" NAME="Leetcode-Find All Numbers Disappeared in an Array Coverage Results" MODIFIED="1575236556234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
-    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Minimum_Area_Rectangle.coverage" NAME="Leetcode-Minimum Area Rectangle Coverage Results" MODIFIED="1574477758277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
-    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Open_the_Lock.coverage" NAME="Leetcode-Open the Lock Coverage Results" MODIFIED="1574367953455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
-    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Push_Dominoes.coverage" NAME="Leetcode-Push Dominoes Coverage Results" MODIFIED="1574931983646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
-    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Summary_Ranges.coverage" NAME="Leetcode-Summary Ranges Coverage Results" MODIFIED="1574370335030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
-    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode__Basic_Calculator_II.coverage" NAME="Leetcode- Basic Calculator II Coverage Results" MODIFIED="1574389967244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
-    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Missing_Number.coverage" NAME="Leetcode-Missing Number Coverage Results" MODIFIED="1574745922727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
-    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Add_Strings.coverage" NAME="Leetcode-Add Strings Coverage Results" MODIFIED="1574632745283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
-    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Increasing_Order_Search_Tree.coverage" NAME="Leetcode-Increasing Order Search Tree Coverage Results" MODIFIED="1574752628537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
-    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Longest_Palindromic_Subsequence.coverage" NAME="Leetcode-Longest Palindromic Subsequence Coverage Results" MODIFIED="1574821748394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
-    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Shortest_Unsorted_Continuous_Subarray.coverage" NAME="Leetcode-Shortest Unsorted Continuous Subarray Coverage Results" MODIFIED="1575245831322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
-    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Longest_String_Chain.coverage" NAME="Leetcode-Longest String Chain Coverage Results" MODIFIED="1574936213279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Find_Right_Interval.coverage" NAME="Leetcode-Find Right Interval Coverage Results" MODIFIED="1576965906264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
     <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Ones_and_Zeroes.coverage" NAME="Leetcode-Ones and Zeroes Coverage Results" MODIFIED="1574903237056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
-    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Maximum_Width_of_Binary_Tree.coverage" NAME="Leetcode-Maximum Width of Binary Tree Coverage Results" MODIFIED="1573711132040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
-    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Min_Stack.coverage" NAME="Leetcode-Min Stack Coverage Results" MODIFIED="1575193668817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
-    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_2_Keys_Keyboard.coverage" NAME="Leetcode-2 Keys Keyboard Coverage Results" MODIFIED="1573790648899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
-    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Domino_and_Tromino_Tiling.coverage" NAME="Leetcode-Domino and Tromino Tiling Coverage Results" MODIFIED="1573788084221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
-    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Best_Time_to_Buy_and_Sell_Stock_III.coverage" NAME="Leetcode-Best Time to Buy and Sell Stock III Coverage Results" MODIFIED="1575098373299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
-    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Minimum_Add_to_Make_Parentheses_Valid.coverage" NAME="Leetcode-Minimum Add to Make Parentheses Valid Coverage Results" MODIFIED="1574480398471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
-    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Map_Sum_Pairs.coverage" NAME="Leetcode-Map Sum Pairs Coverage Results" MODIFIED="1574903671459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
-    <SUITE FILE_PATH="coverage/Competitive_Programming$Number_of_Enclaves.coverage" NAME="Number of Enclaves Coverage Results" MODIFIED="1573767008042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
-    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode__Remove_Duplicates_from_Sorted_Array_II.coverage" NAME="Leetcode- Remove Duplicates from Sorted Array II Coverage Results" MODIFIED="1573792039851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
-    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Longest_Substring_with_At_Least_K_Repeating_Characters.coverage" NAME="Leetcode-Longest Substring with At Least K Repeating Characters Coverage Results" MODIFIED="1573793632473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
-    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Binary_Search_Tree_to_Greater_Sum_Tree.coverage" NAME="Leetcode-Binary Search Tree to Greater Sum Tree Coverage Results" MODIFIED="1573707398779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
-    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Construct_Quad_Tree.coverage" NAME="Leetcode-Construct Quad Tree Coverage Results" MODIFIED="1574915580137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
-    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode__Combination_Sum.coverage" NAME="Leetcode- Combination Sum Coverage Results" MODIFIED="1574479833285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
-    <SUITE FILE_PATH="coverage/pythonlearning$main.coverage" NAME="main Coverage Results" MODIFIED="1572762911968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode__Largest_Number.coverage" NAME="Leetcode- Largest Number Coverage Results" MODIFIED="1574568621470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
-    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_String_Without_AAA_or_BBB.coverage" NAME="Leetcode-String Without AAA or BBB Coverage Results" MODIFIED="1574919007133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
-    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_House_Robber.coverage" NAME="Leetcode-House Robber Coverage Results" MODIFIED="1575198088225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
-    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Russian_Doll_Envelopes.coverage" NAME="Leetcode-Russian Doll Envelopes Coverage Results" MODIFIED="1574305628070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
-    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_My_Calendar_II.coverage" NAME="Leetcode-My Calendar II Coverage Results" MODIFIED="1574642062985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
-    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Maximum_Subarray.coverage" NAME="Leetcode-Maximum Subarray Coverage Results" MODIFIED="1574729055579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
-    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Uncrossed_Lines.coverage" NAME="Leetcode-Uncrossed Lines Coverage Results" MODIFIED="1574907188869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
-    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Symmetric_Tree.coverage" NAME="Leetcode-Symmetric Tree Coverage Results" MODIFIED="1575094642290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
-    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Best_Time_to_Buy_and_Sell_Stock_II.coverage" NAME="Leetcode-Best Time to Buy and Sell Stock II Coverage Results" MODIFIED="1575095310138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
-    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Champagne_Tower.coverage" NAME="Leetcode-Champagne Tower Coverage Results" MODIFIED="1574317392716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
-    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Longest_Arithmetic_Sequence.coverage" NAME="Leetcode-Longest Arithmetic Sequence Coverage Results" MODIFIED="1574571341991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
     <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Bulb_Switcher_II.coverage" NAME="Leetcode-Bulb Switcher II Coverage Results" MODIFIED="1574561162262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
-    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Longest_Repeating_Character_Replacement.coverage" NAME="Leetcode-Longest Repeating Character Replacement Coverage Results" MODIFIED="1574800374955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
-    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Longest_Common_Subsequence.coverage" NAME="Leetcode-Longest Common Subsequence Coverage Results" MODIFIED="1574846610953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
-    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Reverse_Linked_List.coverage" NAME="Leetcode-Reverse Linked List Coverage Results" MODIFIED="1575200655460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
-    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode__Keys_and_Rooms.coverage" NAME="Leetcode- Keys and Rooms Coverage Results" MODIFIED="1574377573375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
-    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Matchsticks_to_Square.coverage" NAME="Leetcode-Matchsticks to Square Coverage Results" MODIFIED="1574483020265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
-    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Longest_Well_Performing_Interval.coverage" NAME="Leetcode-Longest Well-Performing Interval Coverage Results" MODIFIED="1574813886803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
-    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Flood_Fill.coverage" NAME="Leetcode-Flood Fill Coverage Results" MODIFIED="1574390169671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
-    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Insert_Delete_GetRandom_O_1____Duplicates_allowed.coverage" NAME="Leetcode-Insert Delete GetRandom O(1) - Duplicates allowed Coverage Results" MODIFIED="1574921218663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Summary_Ranges.coverage" NAME="Leetcode-Summary Ranges Coverage Results" MODIFIED="1574370335030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Longest_String_Chain.coverage" NAME="Leetcode-Longest String Chain Coverage Results" MODIFIED="1574936213279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Missing_Number.coverage" NAME="Leetcode-Missing Number Coverage Results" MODIFIED="1574745922727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Best_Time_to_Buy_and_Sell_Stock_III.coverage" NAME="Leetcode-Best Time to Buy and Sell Stock III Coverage Results" MODIFIED="1575098373299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Rotate_Array.coverage" NAME="Leetcode-Rotate Array Coverage Results" MODIFIED="1575310093388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Pascal_s_Triangle.coverage" NAME="Leetcode-Pascal's Triangle Coverage Results" MODIFIED="1575274707198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
     <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Water_and_Jug_Problem.coverage" NAME="Leetcode-Water and Jug Problem Coverage Results" MODIFIED="1574941286886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
-    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Word_Subsets.coverage" NAME="Leetcode-Word Subsets Coverage Results" MODIFIED="1573778382334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
-    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Merge_Two_Binary_Trees.coverage" NAME="Leetcode-Merge Two Binary Trees Coverage Results" MODIFIED="1573704600970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
-    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Alphabet_Board_Path.coverage" NAME="Leetcode-Alphabet Board Path Coverage Results" MODIFIED="1574562560914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
-    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Flip_String_to_Monotone_Increasing.coverage" NAME="Leetcode-Flip String to Monotone Increasing Coverage Results" MODIFIED="1574309621790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
-    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_First_Unique_Character_in_a_String.coverage" NAME="Leetcode-First Unique Character in a String Coverage Results" MODIFIED="1574848280166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Partition_Array_for_Maximum_Sum.coverage" NAME="Leetcode-Partition Array for Maximum Sum Coverage Results" MODIFIED="1577615824260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Push_Dominoes.coverage" NAME="Leetcode-Push Dominoes Coverage Results" MODIFIED="1574931983646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
     <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode__Largest_1_Bordered_Square.coverage" NAME="Leetcode- Largest 1-Bordered Square Coverage Results" MODIFIED="1574373627277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
-    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode__Vertical_Order_Traversal_of_a_Binary_Tree.coverage" NAME="Leetcode- Vertical Order Traversal of a Binary Tree Coverage Results" MODIFIED="1574549260220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
-    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode__Find_Elements_in_a_Contaminated_Binary_Tree.coverage" NAME="Leetcode- Find Elements in a Contaminated Binary Tree Coverage Results" MODIFIED="1574913657181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
-    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode__Insert_Delete_GetRandom_O_1_.coverage" NAME="Leetcode- Insert Delete GetRandom O(1) Coverage Results" MODIFIED="1574919020948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
-    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Diameter_of_Binary_Tree.coverage" NAME="Leetcode-Diameter of Binary Tree Coverage Results" MODIFIED="1575245728105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
-    <SUITE FILE_PATH="coverage/Competitive_Programming$main.coverage" NAME="main Coverage Results" MODIFIED="1572816147085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Replace_Words.coverage" NAME="Leetcode-Replace Words Coverage Results" MODIFIED="1573948186517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
-    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_All_Nodes_Distance_K_in_Binary_Tree.coverage" NAME="Leetcode-All Nodes Distance K in Binary Tree Coverage Results" MODIFIED="1574632483018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
-    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Path_Sum_III.coverage" NAME="Leetcode-Path Sum III Coverage Results" MODIFIED="1574750029939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
-    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode__Fraction_to_Recurring_Decimal.coverage" NAME="Leetcode- Fraction to Recurring Decimal Coverage Results" MODIFIED="1574456667438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
-    <SUITE FILE_PATH="coverage/pythonlearning$test.coverage" NAME="test Coverage Results" MODIFIED="1572664287423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pythonlearning$anotherFile.coverage" NAME="anotherFile Coverage Results" MODIFIED="1572134140459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Valid_Parenthesis_String.coverage" NAME="Leetcode-Valid Parenthesis String Coverage Results" MODIFIED="1574457155485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
-    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Leaf_similar_trees.coverage" NAME="Leetcode-Leaf-similar-trees Coverage Results" MODIFIED="1574751475605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
-    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_01_Matrix.coverage" NAME="Leetcode-01 Matrix Coverage Results" MODIFIED="1574377151959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
-    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Shortest_Common_Supersequence.coverage" NAME="Leetcode-Shortest Common Supersequence Coverage Results" MODIFIED="1574847908958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Word_Search.coverage" NAME="Leetcode-Word Search Coverage Results" MODIFIED="1577692478211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Champagne_Tower.coverage" NAME="Leetcode-Champagne Tower Coverage Results" MODIFIED="1574317392716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Minimum_Path_Sum.coverage" NAME="Leetcode-Minimum Path Sum Coverage Results" MODIFIED="1575362811991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Maximum_Width_of_Binary_Tree.coverage" NAME="Leetcode-Maximum Width of Binary Tree Coverage Results" MODIFIED="1573711132040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Rotate_Image.coverage" NAME="Leetcode-Rotate Image Coverage Results" MODIFIED="1575343863930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$1145A_Thanos_Sort.coverage" NAME="1145A Thanos Sort Coverage Results" MODIFIED="1575314517460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Codeforces" />
     <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Majority_Element.coverage" NAME="Leetcode-Majority Element Coverage Results" MODIFIED="1575197508611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode__Keys_and_Rooms.coverage" NAME="Leetcode- Keys and Rooms Coverage Results" MODIFIED="1574377573375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Valid_Palindrome.coverage" NAME="Leetcode-Valid Palindrome Coverage Results" MODIFIED="1575275541476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Reverse_Linked_List.coverage" NAME="Leetcode-Reverse Linked List Coverage Results" MODIFIED="1575200655460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Path_Sum_III.coverage" NAME="Leetcode-Path Sum III Coverage Results" MODIFIED="1574750029939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Binary_Search_Tree_to_Greater_Sum_Tree.coverage" NAME="Leetcode-Binary Search Tree to Greater Sum Tree Coverage Results" MODIFIED="1573707398779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Min_Stack.coverage" NAME="Leetcode-Min Stack Coverage Results" MODIFIED="1575193668817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$393A_Nineteen.coverage" NAME="393A Nineteen Coverage Results" MODIFIED="1575315280838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Codeforces" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_First_Unique_Character_in_a_String.coverage" NAME="Leetcode-First Unique Character in a String Coverage Results" MODIFIED="1574848280166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Palindromic_Substrings.coverage" NAME="Leetcode-Palindromic Substrings Coverage Results" MODIFIED="1575531285012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Domino_and_Tromino_Tiling.coverage" NAME="Leetcode-Domino and Tromino Tiling Coverage Results" MODIFIED="1573788084221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/pythonlearning$test.coverage" NAME="test Coverage Results" MODIFIED="1572664287423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Shortest_Common_Supersequence.coverage" NAME="Leetcode-Shortest Common Supersequence Coverage Results" MODIFIED="1574847908958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Happy_Number.coverage" NAME="Leetcode-Happy Number Coverage Results" MODIFIED="1575322625571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Reverse_Bits.coverage" NAME="Leetcode-Reverse Bits Coverage Results" MODIFIED="1575310551459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Coin_Change.coverage" NAME="Leetcode-Coin Change Coverage Results" MODIFIED="1577576395052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode__Combination_Sum.coverage" NAME="Leetcode- Combination Sum Coverage Results" MODIFIED="1574479833285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Convert_Sorted_Array_to_Binary_Search_Tree.coverage" NAME="Leetcode-Convert Sorted Array to Binary Search Tree Coverage Results" MODIFIED="1575274068246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_My_Calendar_II.coverage" NAME="Leetcode-My Calendar II Coverage Results" MODIFIED="1574642062985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Valid_Parenthesis_String.coverage" NAME="Leetcode-Valid Parenthesis String Coverage Results" MODIFIED="1574457155485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Regions_Cut_By_Slashes.coverage" NAME="Leetcode-Regions Cut By Slashes Coverage Results" MODIFIED="1577615261136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_01_Matrix.coverage" NAME="Leetcode-01 Matrix Coverage Results" MODIFIED="1574377151959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/pythonlearning$anotherFile.coverage" NAME="anotherFile Coverage Results" MODIFIED="1572134140459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Symmetric_Tree.coverage" NAME="Leetcode-Symmetric Tree Coverage Results" MODIFIED="1575094642290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Matchsticks_to_Square.coverage" NAME="Leetcode-Matchsticks to Square Coverage Results" MODIFIED="1574483020265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$main.coverage" NAME="main Coverage Results" MODIFIED="1572816147085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_2_Keys_Keyboard.coverage" NAME="Leetcode-2 Keys Keyboard Coverage Results" MODIFIED="1573790648899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Excel_Sheet_Column_Number.coverage" NAME="Leetcode-Excel Sheet Column Number Coverage Results" MODIFIED="1575275761459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Permutations.coverage" NAME="Leetcode-Permutations Coverage Results" MODIFIED="1575342288476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Factorial_Trailing_Zeroes.coverage" NAME="Leetcode-Factorial Trailing Zeroes Coverage Results" MODIFIED="1575276924854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$anotherFile.coverage" NAME="anotherFile Coverage Results" MODIFIED="1577682086522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Map_Sum_Pairs.coverage" NAME="Leetcode-Map Sum Pairs Coverage Results" MODIFIED="1574903671459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$LRU_Cache.coverage" NAME="LRU Cache Coverage Results" MODIFIED="1577680507520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Task_Scheduler.coverage" NAME="Leetcode-Task Scheduler Coverage Results" MODIFIED="1576033904856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Binary_Tree_Pruning.coverage" NAME="Leetcode-Binary Tree Pruning Coverage Results" MODIFIED="1576963292417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Russian_Doll_Envelopes.coverage" NAME="Leetcode-Russian Doll Envelopes Coverage Results" MODIFIED="1574305628070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Longest_Repeating_Character_Replacement.coverage" NAME="Leetcode-Longest Repeating Character Replacement Coverage Results" MODIFIED="1574800374955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Increasing_Order_Search_Tree.coverage" NAME="Leetcode-Increasing Order Search Tree Coverage Results" MODIFIED="1574752628537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Replace_Words.coverage" NAME="Leetcode-Replace Words Coverage Results" MODIFIED="1573948186517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Best_Time_to_Buy_and_Sell_Stock_II.coverage" NAME="Leetcode-Best Time to Buy and Sell Stock II Coverage Results" MODIFIED="1575095310138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_House_Robber.coverage" NAME="Leetcode-House Robber Coverage Results" MODIFIED="1575198088225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$MAXSPPROD.coverage" NAME="MAXSPPROD Coverage Results" MODIFIED="1576628011672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InterviewBit" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Add_Strings.coverage" NAME="Leetcode-Add Strings Coverage Results" MODIFIED="1574632745283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Minimum_Area_Rectangle.coverage" NAME="Leetcode-Minimum Area Rectangle Coverage Results" MODIFIED="1574477758277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Diameter_of_Binary_Tree.coverage" NAME="Leetcode-Diameter of Binary Tree Coverage Results" MODIFIED="1575245728105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Generate_Parentheses.coverage" NAME="Leetcode-Generate Parentheses Coverage Results" MODIFIED="1575328692947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Merge_Sorted_Array.coverage" NAME="Leetcode-Merge Sorted Array Coverage Results" MODIFIED="1575272927325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Daily_Temperatures.coverage" NAME="Leetcode-Daily Temperatures Coverage Results" MODIFIED="1575448100697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode__Remove_Duplicates_from_Sorted_Array_II.coverage" NAME="Leetcode- Remove Duplicates from Sorted Array II Coverage Results" MODIFIED="1573792039851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Find_First_and_Last_Position_of_Element_in_Sorted_Array.coverage" NAME="Leetcode-Find First and Last Position of Element in Sorted Array Coverage Results" MODIFIED="1575332285033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Sort_Colors.coverage" NAME="Leetcode-Sort Colors Coverage Results" MODIFIED="1575444407859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode__Insert_Delete_GetRandom_O_1_.coverage" NAME="Leetcode- Insert Delete GetRandom O(1) Coverage Results" MODIFIED="1574919020948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_String_Without_AAA_or_BBB.coverage" NAME="Leetcode-String Without AAA or BBB Coverage Results" MODIFIED="1574919007133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Word_Subsets.coverage" NAME="Leetcode-Word Subsets Coverage Results" MODIFIED="1573778382334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Sum_of_Two_Integers.coverage" NAME="Leetcode-Sum of Two Integers Coverage Results" MODIFIED="1575327334815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Maximum_Product_Subarray.coverage" NAME="Leetcode-Maximum Product Subarray Coverage Results" MODIFIED="1577682464722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Merge_Intervals.coverage" NAME="Leetcode-Merge Intervals Coverage Results" MODIFIED="1575360807472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_All_Nodes_Distance_K_in_Binary_Tree.coverage" NAME="Leetcode-All Nodes Distance K in Binary Tree Coverage Results" MODIFIED="1574632483018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Flood_Fill.coverage" NAME="Leetcode-Flood Fill Coverage Results" MODIFIED="1574390169671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode__Largest_Number.coverage" NAME="Leetcode- Largest Number Coverage Results" MODIFIED="1574568621470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Flip_String_to_Monotone_Increasing.coverage" NAME="Leetcode-Flip String to Monotone Increasing Coverage Results" MODIFIED="1574309621790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Search_in_Rotated_Sorted_Array.coverage" NAME="Leetcode-Search in Rotated Sorted Array Coverage Results" MODIFIED="1575331035196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Flower_Planting_With_No_Adjacent.coverage" NAME="Leetcode-Flower Planting With No Adjacent Coverage Results" MODIFIED="1577607342474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Intersection_of_Two_Arrays_II.coverage" NAME="Leetcode-Intersection of Two Arrays II Coverage Results" MODIFIED="1575323839847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode__Fraction_to_Recurring_Decimal.coverage" NAME="Leetcode- Fraction to Recurring Decimal Coverage Results" MODIFIED="1574456667438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode__Find_Elements_in_a_Contaminated_Binary_Tree.coverage" NAME="Leetcode- Find Elements in a Contaminated Binary Tree Coverage Results" MODIFIED="1574913657181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Shortest_Unsorted_Continuous_Subarray.coverage" NAME="Leetcode-Shortest Unsorted Continuous Subarray Coverage Results" MODIFIED="1575245831322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Longest_Common_Subsequence.coverage" NAME="Leetcode-Longest Common Subsequence Coverage Results" MODIFIED="1574846610953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Group_Anagrams.coverage" NAME="Leetcode-Group Anagrams Coverage Results" MODIFIED="1575356134636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Alphabet_Board_Path.coverage" NAME="Leetcode-Alphabet Board Path Coverage Results" MODIFIED="1574562560914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Longest_Well_Performing_Interval.coverage" NAME="Leetcode-Longest Well-Performing Interval Coverage Results" MODIFIED="1574813886803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Jump_Game.coverage" NAME="Leetcode-Jump Game Coverage Results" MODIFIED="1575357641065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Longest_Substring_with_At_Least_K_Repeating_Characters.coverage" NAME="Leetcode-Longest Substring with At Least K Repeating Characters Coverage Results" MODIFIED="1573793632473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Next_Permutation.coverage" NAME="Leetcode-Next Permutation Coverage Results" MODIFIED="1575329178683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Find_All_Numbers_Disappeared_in_an_Array.coverage" NAME="Leetcode-Find All Numbers Disappeared in an Array Coverage Results" MODIFIED="1575236556234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Number_of_Enclaves.coverage" NAME="Number of Enclaves Coverage Results" MODIFIED="1573767008042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Uncrossed_Lines.coverage" NAME="Leetcode-Uncrossed Lines Coverage Results" MODIFIED="1574907188869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Longest_Arithmetic_Sequence.coverage" NAME="Leetcode-Longest Arithmetic Sequence Coverage Results" MODIFIED="1574571341991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Leaf_similar_trees.coverage" NAME="Leetcode-Leaf-similar-trees Coverage Results" MODIFIED="1574751475605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Insert_Delete_GetRandom_O_1____Duplicates_allowed.coverage" NAME="Leetcode-Insert Delete GetRandom O(1) - Duplicates allowed Coverage Results" MODIFIED="1574921218663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Minimum_Add_to_Make_Parentheses_Valid.coverage" NAME="Leetcode-Minimum Add to Make Parentheses Valid Coverage Results" MODIFIED="1574480398471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_4Sum_II.coverage" NAME="Leetcode-4Sum II Coverage Results" MODIFIED="1577576705194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Longest_Palindromic_Subsequence.coverage" NAME="Leetcode-Longest Palindromic Subsequence Coverage Results" MODIFIED="1574821748394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Merge_Two_Binary_Trees.coverage" NAME="Leetcode-Merge Two Binary Trees Coverage Results" MODIFIED="1573704600970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/pythonlearning$main.coverage" NAME="main Coverage Results" MODIFIED="1572762911968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode__Vertical_Order_Traversal_of_a_Binary_Tree.coverage" NAME="Leetcode- Vertical Order Traversal of a Binary Tree Coverage Results" MODIFIED="1574549260220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Construct_Quad_Tree.coverage" NAME="Leetcode-Construct Quad Tree Coverage Results" MODIFIED="1574915580137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Open_the_Lock.coverage" NAME="Leetcode-Open the Lock Coverage Results" MODIFIED="1574367953455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Count_and_Say.coverage" NAME="Leetcode-Count and Say Coverage Results" MODIFIED="1575270789501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode__Basic_Calculator_II.coverage" NAME="Leetcode- Basic Calculator II Coverage Results" MODIFIED="1574389967244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Unique_Paths.coverage" NAME="Leetcode-Unique Paths Coverage Results" MODIFIED="1575362509659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_Maximum_Subarray.coverage" NAME="Leetcode-Maximum Subarray Coverage Results" MODIFIED="1574729055579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
   </component>
 </project>
