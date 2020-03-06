@@ -1,4 +1,3 @@
-a = [1,1,2,2,3,4,3]
-b = [5,5,5]
-a[2:5] = b
-print(a)
+import bisect
+a = [1,2,5,8]
+print(bisect.bisect_left(a, 7))
