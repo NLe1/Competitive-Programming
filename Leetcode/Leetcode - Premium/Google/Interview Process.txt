@@ -1,0 +1,30 @@
+The phone screen usually last between 30 and 60 minutes.
+
+Your phone interview will cover data structures and algorithms. Be prepared to write around 20-30 lines of code in your strongest language. This should be clean, rich, robust code.
+
+Your interviewer will ask one or two coding questions with lots of follow up questions. Be prepared to talk through your thought process while writing code in a Google Doc that you’ll share with your interviewer. We recommend using a hands-free headset or speakerphone so you can type freely.
+
+    You will be asked an open ended question. Ask clarifying questions, devise requirements.
+    You will be asked to explain it in an algorithm.
+    Convert it to a workable code.
+    (Hint: Don't worry about getting it perfect because time is limited. Write what comes but then refine it later. Also make sure you consider corner cases and edge cases, production ready.)
+    Optimize the code, follow it with test cases and find any bugs.
+
+
+This is it! You've passed the phone interviews and now you have received an onsite interview invitation. Onsite interview is the most important process of a Google interview, and your ability to receive an offer will largely depend on your performance during onsite interviews. Traditionally, the percentage of candidates who will receive an offer after onsite interview is about 1 of 5 to 1 of 7.
+
+You'll usually meet with five Googlers for about 30 to 45 minutes each, and one of them will be your lunch interviewer who does not submit interview feedback, so take this opportunity to freely ask questions.
+
+All candidates will have the chance to highlight strengths in four different areas:
+
+General cognitive ability: Open-ended questions are asked to learn how you approach and solve problems. And there’s no one right answer—your ability to explain your thought process and how you use data to inform decisions is what’s most important.
+Leadership: Be prepared to discuss how you have used your communication and decision-making skills to mobilize others. This might be by stepping up to a leadership role at work or with an organization, or by helping a team succeed even when you weren’t officially the leader.
+Role-related knowledge: Google is interested in how your individual strengths combine with your experience to drive impact. Google don’t just look for how you can contribute today, but how you can grow into different roles—including ones that haven’t even been invented yet.
+Googleyness: Share how you work individually and on a team, how you help others, how you navigate ambiguity, and how you push yourself to grow outside of your comfort zone.
+Note that Google put heavy emphasis on your analytical ability regardless of your job experience. Be prepared to showcase solid understanding of data structures and algorithms. If you have years of experiences in the industry and are rusty in your Computer Science fundamentals, invest more time in brushing up your basic CS fundamental skills. Otherwise, you may end up being rejected like Max Howell for not able to invert a binary tree.
+
+Google wants to understand your coding skills and technical areas of expertise, including tools or programming languages and general knowledge on topics like data structures and algorithms. There's generally some back and forth in these discussions, just like there is on the job to push each other's thinking and learn about different approaches. So be prepared to talk through your solutions in depth. Push your own boundaries and find the best answer—that’s probably how you work anyway.
+
+Technical onsite interviews at Google were historically conducted on whiteboards, but to provide a more authentic coding experience that’s less time-consuming, Google has started to offer laptops for coding interviews in some sites. These chromebooks have an interview app that let's you choose a coding language of your preference.
+
+Throughout the interview process, feel free to ask your interviewers for clarification to make sure you fully understand their questions.

@@ -2,22 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fce5370e-af9f-4d70-b303-6e8afb9c11cf" name="Default Changelist" comment="Update 01/02/2019">
-      <change afterPath="$PROJECT_DIR$/CTCI/Chapter 2 - Linked List/LinkedList.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CTCI/Chapter 2 - Linked List/LinkedList.test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CTCI/solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hackerrank/TuSimple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kickstart2020/Allocation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kickstart2020/Plate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kickstart2020/Workout.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kickstart2020/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode - Counting Bits.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode - Decode String.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode - Find All Anagrams in a String.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode - House Robber III.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/src/Leetcode - Flatten Binary Tree to Linked List.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/src/Leetcode - House Robber II.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/src/Leetcode -Implement Trie (Prefix Tree).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/30dayschallenge/Happy Number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/30dayschallenge/Single Number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode - Premium/Google/3Sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode - Premium/Google/Container With Most Water.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode - Premium/Google/Fruit Into Baskets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode - Premium/Google/Interview Process.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode - Premium/Google/Jump Game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode - Premium/Google/License Key Formatting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode - Premium/Google/Longest Substring Without Repeating Characters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode - Premium/Google/Minimum Window Substring.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode - Premium/Google/Multiply String.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode - Premium/Google/Next Permutation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode - Premium/Google/Odd Even Jump.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode - Premium/Google/Plusone.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode - Premium/Google/Read N Characters Given Read4 II - Call multiple times.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode - Premium/Google/Rotate Image.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode - Premium/Google/Unique Email Addresses.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/src/Leetcode -  Longest Palindromic Substring.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/src/Leetcode - LFU Cache.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/src/Leetcode - Partition Equal Subset Sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/src/Leetcode - Reverse String(recursive).py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/Leetcode-LRU Cache.py" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/Leetcode-LRU Cache.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/anotherFile.py" beforeDir="false" afterPath="$PROJECT_DIR$/anotherFile.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,8 +81,8 @@
       <recent name="$PROJECT_DIR$/Kattis" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Leetcode - House Robber II">
-    <configuration name="Leetcode - House Robber II" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Minimum Window Substring">
+    <configuration name="Jump Game" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Competitive Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -83,12 +90,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="$PROJECT_DIR$/../test/venv/bin/python" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Leetcode/src" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Leetcode/Leetcode - Premium/Google" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/src/Leetcode - House Robber II.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/Leetcode - Premium/Google/Jump Game.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -97,7 +104,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Leetcode - House Robber III" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Minimum Window Substring" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Competitive Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -105,12 +112,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="$PROJECT_DIR$/../test/venv/bin/python" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Leetcode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Leetcode/Leetcode - Premium/Google" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/Leetcode - House Robber III.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/Leetcode - Premium/Google/Minimum Window Substring.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -119,7 +126,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Plate" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Multiply String" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Competitive Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -127,12 +134,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="$PROJECT_DIR$/../test/venv/bin/python" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Kickstart2020" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Leetcode/Leetcode - Premium/Google" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Kickstart2020/Plate.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/Leetcode - Premium/Google/Multiply String.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,7 +148,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Workout" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Plusone" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Competitive Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -149,12 +156,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="$PROJECT_DIR$/../test/venv/bin/python" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Kickstart2020" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Leetcode/Leetcode - Premium/Google" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Kickstart2020/Workout.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/Leetcode - Premium/Google/Plusone.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -163,7 +170,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="anotherFile" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Rotate Image" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Competitive Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -171,12 +178,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="$PROJECT_DIR$/../test/venv/bin/python" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Leetcode/Leetcode - Premium/Google" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/anotherFile.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/Leetcode - Premium/Google/Rotate Image.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -187,11 +194,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Leetcode - House Robber II" />
-        <item itemvalue="Python.anotherFile" />
-        <item itemvalue="Python.Leetcode - House Robber III" />
-        <item itemvalue="Python.Workout" />
-        <item itemvalue="Python.Plate" />
+        <item itemvalue="Python.Minimum Window Substring" />
+        <item itemvalue="Python.Plusone" />
+        <item itemvalue="Python.Jump Game" />
+        <item itemvalue="Python.Rotate Image" />
+        <item itemvalue="Python.Multiply String" />
       </list>
     </recent_temporary>
   </component>
@@ -303,7 +310,13 @@
       <workItem from="1584809651147" duration="1882000" />
       <workItem from="1584849576803" duration="4889000" />
       <workItem from="1584903781378" duration="4031000" />
-      <workItem from="1584925715066" duration="2661000" />
+      <workItem from="1584925715066" duration="3749000" />
+      <workItem from="1585000962221" duration="1533000" />
+      <workItem from="1585183459198" duration="6507000" />
+      <workItem from="1585357781461" duration="3505000" />
+      <workItem from="1585779038662" duration="8716000" />
+      <workItem from="1585812045603" duration="11000" />
+      <workItem from="1585858997815" duration="11215000" />
     </task>
     <task id="LOCAL-00001" summary="Update 11/20/2019">
       <created>1574322381467</created>
@@ -352,18 +365,42 @@
     <option name="LAST_COMMIT_MESSAGE" value="Update 01/02/2019" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="2302" y="174" key="#3Sum" timestamp="1585861721249">
+      <screen x="1680" y="-39" width="1920" height="1177" />
+    </state>
+    <state x="2302" y="174" key="#3Sum/0.23.1680.1027/1680.-39.1920.1177@1680.-39.1920.1177" timestamp="1585861721249" />
     <state x="535" y="150" key="#Allocation" timestamp="1584849919596">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="535" y="150" key="#Allocation/0.23.1680.1027/-198.-1177.1920.1177@0.23.1680.1027" timestamp="1584849919596" />
+    <state x="2304" y="194" key="#Container_With_Most_Water" timestamp="1585805091662">
+      <screen x="1680" y="-39" width="1920" height="1177" />
+    </state>
+    <state x="2304" y="194" key="#Container_With_Most_Water/0.23.1680.1027/1680.-39.1920.1177@1680.-39.1920.1177" timestamp="1585805091662" />
+    <state x="2304" y="194" key="#Fruit_Into_Baskets" timestamp="1585798163376">
+      <screen x="1680" y="-39" width="1920" height="1177" />
+    </state>
+    <state x="2304" y="194" key="#Fruit_Into_Baskets/0.23.1680.1027/1680.-39.1920.1177@1680.-39.1920.1177" timestamp="1585798163376" />
+    <state x="2302" y="174" key="#Happy_Number" timestamp="1585859257892">
+      <screen x="1680" y="-39" width="1920" height="1177" />
+    </state>
+    <state x="2302" y="174" key="#Happy_Number/0.23.1680.1027/1680.-39.1920.1177@1680.-39.1920.1177" timestamp="1585859257892" />
     <state x="535" y="150" key="#Indeed" timestamp="1583445980648">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="535" y="150" key="#Indeed/0.23.1680.1027@0.23.1680.1027" timestamp="1583445980648" />
+    <state x="2302" y="174" key="#Jump_Game" timestamp="1585880611742">
+      <screen x="1680" y="-39" width="1920" height="1177" />
+    </state>
+    <state x="2302" y="174" key="#Jump_Game/0.23.1680.1027/1680.-39.1920.1177@1680.-39.1920.1177" timestamp="1585880611742" />
     <state x="535" y="139" key="#Leetcode-Construct_Target_Array_With_Multiple_Sums" timestamp="1581824384920">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="535" y="139" key="#Leetcode-Construct_Target_Array_With_Multiple_Sums/0.0.1680.1050/-138.-1200.1920.1200@0.0.1680.1050" timestamp="1581824384920" />
+    <state x="535" y="150" key="#Leetcode-LRU_Cache" timestamp="1585185548417">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="535" y="150" key="#Leetcode-LRU_Cache/0.23.1680.1027/-198.-1177.1920.1177@0.23.1680.1027" timestamp="1585185548417" />
     <state x="535" y="139" key="#Leetcode-_Spiral_Matrix" timestamp="1581815007235">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
@@ -396,14 +433,54 @@
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="535" y="150" key="#Leetcode_-_House_Robber_III/0.23.1680.1027/-198.-1177.1920.1177@0.23.1680.1027" timestamp="1584907497636" />
+    <state x="535" y="150" key="#Leetcode_-_LFU_Cache" timestamp="1585358374110">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="535" y="150" key="#Leetcode_-_LFU_Cache/0.23.1680.1027/-198.-1177.1920.1177@0.23.1680.1027" timestamp="1585358374110" />
+    <state x="535" y="150" key="#Leetcode_-_Partition_Equal_Subset_Sum" timestamp="1585001198890">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="535" y="150" key="#Leetcode_-_Partition_Equal_Subset_Sum/0.23.1680.1027/-198.-1177.1920.1177@0.23.1680.1027" timestamp="1585001198890" />
+    <state x="535" y="150" key="#Leetcode_-__Longest_Palindromic_Substring" timestamp="1585363580154">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="535" y="150" key="#Leetcode_-__Longest_Palindromic_Substring/0.23.1680.1027/-198.-1177.1920.1177@0.23.1680.1027" timestamp="1585363580154" />
+    <state x="2304" y="194" key="#License_Key_Formatting" timestamp="1585790180689">
+      <screen x="1680" y="-39" width="1920" height="1177" />
+    </state>
+    <state x="2304" y="194" key="#License_Key_Formatting/0.23.1680.1027/1680.-39.1920.1177@1680.-39.1920.1177" timestamp="1585790180689" />
     <state x="535" y="150" key="#LinkedList.test" timestamp="1583468850459">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="535" y="150" key="#LinkedList.test/0.23.1680.1027@0.23.1680.1027" timestamp="1583468850459" />
+    <state x="2304" y="194" key="#Longest_Substring_Without_Repeating_Characters" timestamp="1585802865439">
+      <screen x="1680" y="-39" width="1920" height="1177" />
+    </state>
+    <state x="2304" y="194" key="#Longest_Substring_Without_Repeating_Characters/0.23.1680.1027/1680.-39.1920.1177@1680.-39.1920.1177" timestamp="1585802865439" />
+    <state x="2302" y="174" key="#Minimum_Window_Substring" timestamp="1585886450043">
+      <screen x="1680" y="-39" width="1920" height="1177" />
+    </state>
+    <state x="2302" y="174" key="#Minimum_Window_Substring/0.23.1680.1027/1680.-39.1920.1177@1680.-39.1920.1177" timestamp="1585886450043" />
+    <state x="2302" y="174" key="#Multiply_String" timestamp="1585872129263">
+      <screen x="1680" y="-39" width="1920" height="1177" />
+    </state>
+    <state x="2302" y="174" key="#Multiply_String/0.23.1680.1027/1680.-39.1920.1177@1680.-39.1920.1177" timestamp="1585872129263" />
+    <state x="2302" y="174" key="#Next_Permutation" timestamp="1585870265930">
+      <screen x="1680" y="-39" width="1920" height="1177" />
+    </state>
+    <state x="2302" y="174" key="#Next_Permutation/0.23.1680.1027/1680.-39.1920.1177@1680.-39.1920.1177" timestamp="1585870265930" />
+    <state x="2414" y="185" key="#Odd_Even_Jump" timestamp="1585787032791">
+      <screen x="1680" y="-39" width="1920" height="1177" />
+    </state>
+    <state x="2414" y="185" key="#Odd_Even_Jump/0.23.1680.1027/1680.-39.1920.1177@1680.-39.1920.1177" timestamp="1585787032791" />
     <state x="535" y="150" key="#Plate" timestamp="1584851404279">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="535" y="150" key="#Plate/0.23.1680.1027/-198.-1177.1920.1177@0.23.1680.1027" timestamp="1584851404279" />
+    <state x="2302" y="174" key="#Plusone" timestamp="1585881494819">
+      <screen x="1680" y="-39" width="1920" height="1177" />
+    </state>
+    <state x="2302" y="174" key="#Plusone/0.23.1680.1027/1680.-39.1920.1177@1680.-39.1920.1177" timestamp="1585881494819" />
     <state x="535" y="139" key="#Problem_A_-_Jackpot" timestamp="1582184377608">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
@@ -420,19 +497,28 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="535" y="139" key="#Recursion:_Fibonacci_Numbers/0.0.1680.1050@0.0.1680.1050" timestamp="1582259750580" />
+    <state x="2302" y="174" key="#Rotate_Image" timestamp="1585878979912">
+      <screen x="1680" y="-39" width="1920" height="1177" />
+    </state>
+    <state x="2302" y="174" key="#Rotate_Image/0.23.1680.1027/1680.-39.1920.1177@1680.-39.1920.1177" timestamp="1585878979912" />
     <state x="535" y="150" key="#TuSimple" timestamp="1584810308602">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="535" y="150" key="#TuSimple/0.23.1680.1027/-198.-1177.1920.1177@0.23.1680.1027" timestamp="1584810308602" />
+    <state x="2414" y="185" key="#Unique_Email_Addresses" timestamp="1585782478746">
+      <screen x="1680" y="-39" width="1920" height="1177" />
+    </state>
+    <state x="2414" y="185" key="#Unique_Email_Addresses/0.23.1680.1027/1680.-39.1920.1177@1680.-39.1920.1177" timestamp="1585782478746" />
     <state x="535" y="150" key="#Workout" timestamp="1584854137807">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="535" y="150" key="#Workout/0.23.1680.1027/-198.-1177.1920.1177@0.23.1680.1027" timestamp="1584854137807" />
-    <state x="535" y="159" key="#anotherFile" timestamp="1584925822349">
-      <screen x="0" y="23" width="1680" height="1027" />
+    <state x="2291" y="117" key="#anotherFile" timestamp="1585797654502">
+      <screen x="1680" y="-39" width="1920" height="1177" />
     </state>
     <state x="535" y="139" key="#anotherFile/0.0.1680.1050/-138.-1200.1920.1200@0.0.1680.1050" timestamp="1581814763363" />
     <state x="535" y="159" key="#anotherFile/0.23.1680.1027/-198.-1177.1920.1177@0.23.1680.1027" timestamp="1584925822349" />
+    <state x="2291" y="117" key="#anotherFile/0.23.1680.1027/1680.-39.1920.1177@1680.-39.1920.1177" timestamp="1585797654502" />
     <state x="304" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580872492719">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
@@ -473,160 +559,170 @@
       <screen x="-212" y="-1177" width="1920" height="1177" />
     </state>
     <state width="631" height="466" key="DebuggerActiveHint/0.23.1440.877/-212.-1177.1920.1177@-212.-1177.1920.1177" timestamp="1577681045067" />
-    <state width="1638" height="280" key="GridCell.Tab.0.bottom" timestamp="1584929070497">
-      <screen x="0" y="23" width="1680" height="1027" />
+    <state width="1638" height="199" key="GridCell.Tab.0.bottom" timestamp="1585887051906">
+      <screen x="1680" y="-39" width="1920" height="1177" />
     </state>
-    <state width="1398" height="394" key="GridCell.Tab.0.bottom/0.0.1440.900/-38.-1177.1920.1177@0.0.1440.900" timestamp="1576634450794" />
-    <state width="1398" height="394" key="GridCell.Tab.0.bottom/0.0.1440.900/-38.-1200.1920.1200@0.0.1440.900" timestamp="1576628011683" />
     <state width="1638" height="284" key="GridCell.Tab.0.bottom/0.0.1680.1050/-138.-1177.1920.1177@0.0.1680.1050" timestamp="1581834002341" />
     <state width="1638" height="352" key="GridCell.Tab.0.bottom/0.0.1680.1050/-138.-1200.1920.1200@0.0.1680.1050" timestamp="1582229072023" />
     <state width="1878" height="602" key="GridCell.Tab.0.bottom/0.0.1680.1050/1680.-150.1920.1200@1680.-150.1920.1200" timestamp="1579752052065" />
     <state width="1638" height="352" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1582261983670" />
     <state width="1878" height="286" key="GridCell.Tab.0.bottom/0.23.1440.877/-212.-1177.1920.1177@-212.-1177.1920.1177" timestamp="1577692478222" />
     <state width="1398" height="286" key="GridCell.Tab.0.bottom/0.23.1440.877/-212.-1177.1920.1177@0.23.1440.877" timestamp="1577678401621" />
-    <state width="1878" height="523" key="GridCell.Tab.0.bottom/0.23.1440.877/-38.-1177.1920.1177@-38.-1177.1920.1177" timestamp="1576965906275" />
     <state width="1398" height="287" key="GridCell.Tab.0.bottom/0.23.1440.877/-38.-1177.1920.1177@0.23.1440.877" timestamp="1577576705205" />
     <state width="1398" height="287" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.-277.1920.1177@0.23.1440.877" timestamp="1577599779947" />
     <state width="1878" height="578" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.-277.1920.1177@1440.-277.1920.1177" timestamp="1577616038998" />
     <state width="1878" height="284" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.-314.1920.1177@1440.-314.1920.1177" timestamp="1578119903464" />
-    <state width="1638" height="280" key="GridCell.Tab.0.bottom/0.23.1680.1027/-198.-1177.1920.1177@0.23.1680.1027" timestamp="1584929070497" />
+    <state width="1638" height="334" key="GridCell.Tab.0.bottom/0.23.1680.1027/-198.-1177.1920.1177@0.23.1680.1027" timestamp="1585372869651" />
     <state width="879" height="330" key="GridCell.Tab.0.bottom/0.23.1680.1027/-262.-1177.1920.1177@-262.-1177.1920.1177" timestamp="1583532583753" />
     <state width="1638" height="280" key="GridCell.Tab.0.bottom/0.23.1680.1027/-262.-1177.1920.1177@0.23.1680.1027" timestamp="1584335292097" />
-    <state width="798" height="280" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1584913648701" />
-    <state width="1638" height="280" key="GridCell.Tab.0.center" timestamp="1584929070496">
-      <screen x="0" y="23" width="1680" height="1027" />
+    <state width="1638" height="147" key="GridCell.Tab.0.bottom/0.23.1680.1027/1680.-39.1920.1177@0.23.1680.1027" timestamp="1585788560019" />
+    <state width="1638" height="199" key="GridCell.Tab.0.bottom/0.23.1680.1027/1680.-39.1920.1177@1680.-39.1920.1177" timestamp="1585887051906" />
+    <state width="1638" height="177" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1585811920951" />
+    <state width="1638" height="199" key="GridCell.Tab.0.center" timestamp="1585887051905">
+      <screen x="1680" y="-39" width="1920" height="1177" />
     </state>
-    <state width="1398" height="394" key="GridCell.Tab.0.center/0.0.1440.900/-38.-1177.1920.1177@0.0.1440.900" timestamp="1576634450792" />
-    <state width="1398" height="394" key="GridCell.Tab.0.center/0.0.1440.900/-38.-1200.1920.1200@0.0.1440.900" timestamp="1576628011681" />
     <state width="1638" height="284" key="GridCell.Tab.0.center/0.0.1680.1050/-138.-1177.1920.1177@0.0.1680.1050" timestamp="1581834002340" />
     <state width="1638" height="352" key="GridCell.Tab.0.center/0.0.1680.1050/-138.-1200.1920.1200@0.0.1680.1050" timestamp="1582229072021" />
     <state width="1878" height="602" key="GridCell.Tab.0.center/0.0.1680.1050/1680.-150.1920.1200@1680.-150.1920.1200" timestamp="1579752052062" />
     <state width="1638" height="352" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1582261983669" />
     <state width="1878" height="286" key="GridCell.Tab.0.center/0.23.1440.877/-212.-1177.1920.1177@-212.-1177.1920.1177" timestamp="1577692478220" />
     <state width="1398" height="286" key="GridCell.Tab.0.center/0.23.1440.877/-212.-1177.1920.1177@0.23.1440.877" timestamp="1577678401619" />
-    <state width="1878" height="523" key="GridCell.Tab.0.center/0.23.1440.877/-38.-1177.1920.1177@-38.-1177.1920.1177" timestamp="1576965906273" />
     <state width="1398" height="287" key="GridCell.Tab.0.center/0.23.1440.877/-38.-1177.1920.1177@0.23.1440.877" timestamp="1577576705204" />
     <state width="1398" height="287" key="GridCell.Tab.0.center/0.23.1440.877/1440.-277.1920.1177@0.23.1440.877" timestamp="1577599779945" />
     <state width="1878" height="578" key="GridCell.Tab.0.center/0.23.1440.877/1440.-277.1920.1177@1440.-277.1920.1177" timestamp="1577616038997" />
     <state width="1878" height="284" key="GridCell.Tab.0.center/0.23.1440.877/1440.-314.1920.1177@1440.-314.1920.1177" timestamp="1578119903463" />
-    <state width="1638" height="280" key="GridCell.Tab.0.center/0.23.1680.1027/-198.-1177.1920.1177@0.23.1680.1027" timestamp="1584929070496" />
+    <state width="1638" height="334" key="GridCell.Tab.0.center/0.23.1680.1027/-198.-1177.1920.1177@0.23.1680.1027" timestamp="1585372869650" />
     <state width="879" height="330" key="GridCell.Tab.0.center/0.23.1680.1027/-262.-1177.1920.1177@-262.-1177.1920.1177" timestamp="1583532583750" />
     <state width="1638" height="280" key="GridCell.Tab.0.center/0.23.1680.1027/-262.-1177.1920.1177@0.23.1680.1027" timestamp="1584335292096" />
-    <state width="798" height="280" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1584913648700" />
-    <state width="1638" height="280" key="GridCell.Tab.0.left" timestamp="1584929070495">
-      <screen x="0" y="23" width="1680" height="1027" />
+    <state width="1638" height="147" key="GridCell.Tab.0.center/0.23.1680.1027/1680.-39.1920.1177@0.23.1680.1027" timestamp="1585788560017" />
+    <state width="1638" height="199" key="GridCell.Tab.0.center/0.23.1680.1027/1680.-39.1920.1177@1680.-39.1920.1177" timestamp="1585887051905" />
+    <state width="1638" height="177" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1585811920950" />
+    <state width="1638" height="199" key="GridCell.Tab.0.left" timestamp="1585887051904">
+      <screen x="1680" y="-39" width="1920" height="1177" />
     </state>
-    <state width="1398" height="394" key="GridCell.Tab.0.left/0.0.1440.900/-38.-1177.1920.1177@0.0.1440.900" timestamp="1576634450791" />
-    <state width="1398" height="394" key="GridCell.Tab.0.left/0.0.1440.900/-38.-1200.1920.1200@0.0.1440.900" timestamp="1576628011680" />
     <state width="1638" height="284" key="GridCell.Tab.0.left/0.0.1680.1050/-138.-1177.1920.1177@0.0.1680.1050" timestamp="1581834002339" />
     <state width="1638" height="352" key="GridCell.Tab.0.left/0.0.1680.1050/-138.-1200.1920.1200@0.0.1680.1050" timestamp="1582229072020" />
     <state width="1878" height="602" key="GridCell.Tab.0.left/0.0.1680.1050/1680.-150.1920.1200@1680.-150.1920.1200" timestamp="1579752052061" />
     <state width="1638" height="352" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1582261983668" />
     <state width="1878" height="286" key="GridCell.Tab.0.left/0.23.1440.877/-212.-1177.1920.1177@-212.-1177.1920.1177" timestamp="1577692478220" />
     <state width="1398" height="286" key="GridCell.Tab.0.left/0.23.1440.877/-212.-1177.1920.1177@0.23.1440.877" timestamp="1577678401619" />
-    <state width="1878" height="523" key="GridCell.Tab.0.left/0.23.1440.877/-38.-1177.1920.1177@-38.-1177.1920.1177" timestamp="1576965906273" />
     <state width="1398" height="287" key="GridCell.Tab.0.left/0.23.1440.877/-38.-1177.1920.1177@0.23.1440.877" timestamp="1577576705203" />
     <state width="1398" height="287" key="GridCell.Tab.0.left/0.23.1440.877/1440.-277.1920.1177@0.23.1440.877" timestamp="1577599779945" />
     <state width="1878" height="578" key="GridCell.Tab.0.left/0.23.1440.877/1440.-277.1920.1177@1440.-277.1920.1177" timestamp="1577616038997" />
     <state width="1878" height="284" key="GridCell.Tab.0.left/0.23.1440.877/1440.-314.1920.1177@1440.-314.1920.1177" timestamp="1578119903463" />
-    <state width="1638" height="280" key="GridCell.Tab.0.left/0.23.1680.1027/-198.-1177.1920.1177@0.23.1680.1027" timestamp="1584929070495" />
+    <state width="1638" height="334" key="GridCell.Tab.0.left/0.23.1680.1027/-198.-1177.1920.1177@0.23.1680.1027" timestamp="1585372869649" />
     <state width="879" height="330" key="GridCell.Tab.0.left/0.23.1680.1027/-262.-1177.1920.1177@-262.-1177.1920.1177" timestamp="1583532583749" />
     <state width="1638" height="280" key="GridCell.Tab.0.left/0.23.1680.1027/-262.-1177.1920.1177@0.23.1680.1027" timestamp="1584335292095" />
-    <state width="798" height="280" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1584913648700" />
-    <state width="1638" height="280" key="GridCell.Tab.0.right" timestamp="1584929070497">
-      <screen x="0" y="23" width="1680" height="1027" />
+    <state width="1638" height="147" key="GridCell.Tab.0.left/0.23.1680.1027/1680.-39.1920.1177@0.23.1680.1027" timestamp="1585788560015" />
+    <state width="1638" height="199" key="GridCell.Tab.0.left/0.23.1680.1027/1680.-39.1920.1177@1680.-39.1920.1177" timestamp="1585887051904" />
+    <state width="1638" height="177" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1585811920950" />
+    <state width="1638" height="199" key="GridCell.Tab.0.right" timestamp="1585887051905">
+      <screen x="1680" y="-39" width="1920" height="1177" />
     </state>
-    <state width="1398" height="394" key="GridCell.Tab.0.right/0.0.1440.900/-38.-1177.1920.1177@0.0.1440.900" timestamp="1576634450793" />
-    <state width="1398" height="394" key="GridCell.Tab.0.right/0.0.1440.900/-38.-1200.1920.1200@0.0.1440.900" timestamp="1576628011682" />
     <state width="1638" height="284" key="GridCell.Tab.0.right/0.0.1680.1050/-138.-1177.1920.1177@0.0.1680.1050" timestamp="1581834002341" />
     <state width="1638" height="352" key="GridCell.Tab.0.right/0.0.1680.1050/-138.-1200.1920.1200@0.0.1680.1050" timestamp="1582229072022" />
     <state width="1878" height="602" key="GridCell.Tab.0.right/0.0.1680.1050/1680.-150.1920.1200@1680.-150.1920.1200" timestamp="1579752052064" />
     <state width="1638" height="352" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1582261983670" />
     <state width="1878" height="286" key="GridCell.Tab.0.right/0.23.1440.877/-212.-1177.1920.1177@-212.-1177.1920.1177" timestamp="1577692478221" />
     <state width="1398" height="286" key="GridCell.Tab.0.right/0.23.1440.877/-212.-1177.1920.1177@0.23.1440.877" timestamp="1577678401620" />
-    <state width="1878" height="523" key="GridCell.Tab.0.right/0.23.1440.877/-38.-1177.1920.1177@-38.-1177.1920.1177" timestamp="1576965906274" />
     <state width="1398" height="287" key="GridCell.Tab.0.right/0.23.1440.877/-38.-1177.1920.1177@0.23.1440.877" timestamp="1577576705204" />
     <state width="1398" height="287" key="GridCell.Tab.0.right/0.23.1440.877/1440.-277.1920.1177@0.23.1440.877" timestamp="1577599779946" />
     <state width="1878" height="578" key="GridCell.Tab.0.right/0.23.1440.877/1440.-277.1920.1177@1440.-277.1920.1177" timestamp="1577616038997" />
     <state width="1878" height="284" key="GridCell.Tab.0.right/0.23.1440.877/1440.-314.1920.1177@1440.-314.1920.1177" timestamp="1578119903464" />
-    <state width="1638" height="280" key="GridCell.Tab.0.right/0.23.1680.1027/-198.-1177.1920.1177@0.23.1680.1027" timestamp="1584929070497" />
+    <state width="1638" height="334" key="GridCell.Tab.0.right/0.23.1680.1027/-198.-1177.1920.1177@0.23.1680.1027" timestamp="1585372869651" />
     <state width="879" height="330" key="GridCell.Tab.0.right/0.23.1680.1027/-262.-1177.1920.1177@-262.-1177.1920.1177" timestamp="1583532583751" />
     <state width="1638" height="280" key="GridCell.Tab.0.right/0.23.1680.1027/-262.-1177.1920.1177@0.23.1680.1027" timestamp="1584335292097" />
-    <state width="798" height="280" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1584913648700" />
-    <state width="1638" height="334" key="GridCell.Tab.1.bottom" timestamp="1584929006010">
-      <screen x="0" y="23" width="1680" height="1027" />
+    <state width="1638" height="147" key="GridCell.Tab.0.right/0.23.1680.1027/1680.-39.1920.1177@0.23.1680.1027" timestamp="1585788560018" />
+    <state width="1638" height="199" key="GridCell.Tab.0.right/0.23.1680.1027/1680.-39.1920.1177@1680.-39.1920.1177" timestamp="1585887051905" />
+    <state width="1638" height="177" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1585811920950" />
+    <state width="1638" height="315" key="GridCell.Tab.1.bottom" timestamp="1585886728908">
+      <screen x="1680" y="-39" width="1920" height="1177" />
     </state>
     <state width="1638" height="284" key="GridCell.Tab.1.bottom/0.0.1680.1050/-138.-1177.1920.1177@0.0.1680.1050" timestamp="1581834002346" />
     <state width="1638" height="352" key="GridCell.Tab.1.bottom/0.0.1680.1050/-138.-1200.1920.1200@0.0.1680.1050" timestamp="1582229080466" />
     <state width="1878" height="602" key="GridCell.Tab.1.bottom/0.0.1680.1050/1680.-150.1920.1200@1680.-150.1920.1200" timestamp="1579752052068" />
     <state width="1638" height="352" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1582261983676" />
     <state width="1878" height="578" key="GridCell.Tab.1.bottom/0.23.1440.877/-212.-1177.1920.1177@-212.-1177.1920.1177" timestamp="1577692453224" />
-    <state width="1878" height="581" key="GridCell.Tab.1.bottom/0.23.1440.877/-38.-1177.1920.1177@-38.-1177.1920.1177" timestamp="1576963410245" />
     <state width="1398" height="411" key="GridCell.Tab.1.bottom/0.23.1440.877/-38.-1177.1920.1177@0.23.1440.877" timestamp="1577576582918" />
     <state width="1878" height="578" key="GridCell.Tab.1.bottom/0.23.1440.877/1440.-277.1920.1177@1440.-277.1920.1177" timestamp="1577616038999" />
     <state width="1878" height="577" key="GridCell.Tab.1.bottom/0.23.1440.877/1440.-314.1920.1177@1440.-314.1920.1177" timestamp="1578119903455" />
-    <state width="1638" height="334" key="GridCell.Tab.1.bottom/0.23.1680.1027/-198.-1177.1920.1177@0.23.1680.1027" timestamp="1584929006010" />
+    <state width="1638" height="334" key="GridCell.Tab.1.bottom/0.23.1680.1027/-198.-1177.1920.1177@0.23.1680.1027" timestamp="1585372869653" />
     <state width="1638" height="334" key="GridCell.Tab.1.bottom/0.23.1680.1027/-262.-1177.1920.1177@0.23.1680.1027" timestamp="1584332660070" />
-    <state width="1638" height="334" key="GridCell.Tab.1.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1584913648693" />
-    <state width="1638" height="334" key="GridCell.Tab.1.center" timestamp="1584929006009">
-      <screen x="0" y="23" width="1680" height="1027" />
+    <state width="1638" height="147" key="GridCell.Tab.1.bottom/0.23.1680.1027/1680.-39.1920.1177@0.23.1680.1027" timestamp="1585788560853" />
+    <state width="1638" height="315" key="GridCell.Tab.1.bottom/0.23.1680.1027/1680.-39.1920.1177@1680.-39.1920.1177" timestamp="1585886728908" />
+    <state width="1638" height="177" key="GridCell.Tab.1.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1585811920952" />
+    <state width="1638" height="315" key="GridCell.Tab.1.center" timestamp="1585886728906">
+      <screen x="1680" y="-39" width="1920" height="1177" />
     </state>
     <state width="1638" height="284" key="GridCell.Tab.1.center/0.0.1680.1050/-138.-1177.1920.1177@0.0.1680.1050" timestamp="1581834002345" />
     <state width="1638" height="352" key="GridCell.Tab.1.center/0.0.1680.1050/-138.-1200.1920.1200@0.0.1680.1050" timestamp="1582229080463" />
     <state width="1878" height="602" key="GridCell.Tab.1.center/0.0.1680.1050/1680.-150.1920.1200@1680.-150.1920.1200" timestamp="1579752052067" />
     <state width="1638" height="352" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1582261983673" />
     <state width="1878" height="578" key="GridCell.Tab.1.center/0.23.1440.877/-212.-1177.1920.1177@-212.-1177.1920.1177" timestamp="1577692453224" />
-    <state width="1878" height="581" key="GridCell.Tab.1.center/0.23.1440.877/-38.-1177.1920.1177@-38.-1177.1920.1177" timestamp="1576963410244" />
     <state width="1398" height="411" key="GridCell.Tab.1.center/0.23.1440.877/-38.-1177.1920.1177@0.23.1440.877" timestamp="1577576582917" />
     <state width="1878" height="578" key="GridCell.Tab.1.center/0.23.1440.877/1440.-277.1920.1177@1440.-277.1920.1177" timestamp="1577616038998" />
     <state width="1878" height="577" key="GridCell.Tab.1.center/0.23.1440.877/1440.-314.1920.1177@1440.-314.1920.1177" timestamp="1578119903455" />
-    <state width="1638" height="334" key="GridCell.Tab.1.center/0.23.1680.1027/-198.-1177.1920.1177@0.23.1680.1027" timestamp="1584929006009" />
+    <state width="1638" height="334" key="GridCell.Tab.1.center/0.23.1680.1027/-198.-1177.1920.1177@0.23.1680.1027" timestamp="1585372869652" />
     <state width="1638" height="334" key="GridCell.Tab.1.center/0.23.1680.1027/-262.-1177.1920.1177@0.23.1680.1027" timestamp="1584332660069" />
-    <state width="1638" height="334" key="GridCell.Tab.1.center/0.23.1680.1027@0.23.1680.1027" timestamp="1584913648691" />
-    <state width="1638" height="334" key="GridCell.Tab.1.left" timestamp="1584929006008">
-      <screen x="0" y="23" width="1680" height="1027" />
+    <state width="1638" height="147" key="GridCell.Tab.1.center/0.23.1680.1027/1680.-39.1920.1177@0.23.1680.1027" timestamp="1585788560852" />
+    <state width="1638" height="315" key="GridCell.Tab.1.center/0.23.1680.1027/1680.-39.1920.1177@1680.-39.1920.1177" timestamp="1585886728906" />
+    <state width="1638" height="177" key="GridCell.Tab.1.center/0.23.1680.1027@0.23.1680.1027" timestamp="1585811920951" />
+    <state width="1638" height="315" key="GridCell.Tab.1.left" timestamp="1585886728906">
+      <screen x="1680" y="-39" width="1920" height="1177" />
     </state>
     <state width="1638" height="284" key="GridCell.Tab.1.left/0.0.1680.1050/-138.-1177.1920.1177@0.0.1680.1050" timestamp="1581834002344" />
     <state width="1638" height="352" key="GridCell.Tab.1.left/0.0.1680.1050/-138.-1200.1920.1200@0.0.1680.1050" timestamp="1582229080462" />
     <state width="1878" height="602" key="GridCell.Tab.1.left/0.0.1680.1050/1680.-150.1920.1200@1680.-150.1920.1200" timestamp="1579752052066" />
     <state width="1638" height="352" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1582261983672" />
     <state width="1878" height="578" key="GridCell.Tab.1.left/0.23.1440.877/-212.-1177.1920.1177@-212.-1177.1920.1177" timestamp="1577692453223" />
-    <state width="1878" height="581" key="GridCell.Tab.1.left/0.23.1440.877/-38.-1177.1920.1177@-38.-1177.1920.1177" timestamp="1576963410244" />
     <state width="1398" height="411" key="GridCell.Tab.1.left/0.23.1440.877/-38.-1177.1920.1177@0.23.1440.877" timestamp="1577576582917" />
     <state width="1878" height="578" key="GridCell.Tab.1.left/0.23.1440.877/1440.-277.1920.1177@1440.-277.1920.1177" timestamp="1577616038998" />
     <state width="1878" height="577" key="GridCell.Tab.1.left/0.23.1440.877/1440.-314.1920.1177@1440.-314.1920.1177" timestamp="1578119903454" />
-    <state width="1638" height="334" key="GridCell.Tab.1.left/0.23.1680.1027/-198.-1177.1920.1177@0.23.1680.1027" timestamp="1584929006008" />
+    <state width="1638" height="334" key="GridCell.Tab.1.left/0.23.1680.1027/-198.-1177.1920.1177@0.23.1680.1027" timestamp="1585372869652" />
     <state width="1638" height="334" key="GridCell.Tab.1.left/0.23.1680.1027/-262.-1177.1920.1177@0.23.1680.1027" timestamp="1584332660069" />
-    <state width="1638" height="334" key="GridCell.Tab.1.left/0.23.1680.1027@0.23.1680.1027" timestamp="1584913648691" />
-    <state width="1638" height="334" key="GridCell.Tab.1.right" timestamp="1584929006009">
-      <screen x="0" y="23" width="1680" height="1027" />
+    <state width="1638" height="147" key="GridCell.Tab.1.left/0.23.1680.1027/1680.-39.1920.1177@0.23.1680.1027" timestamp="1585788560852" />
+    <state width="1638" height="315" key="GridCell.Tab.1.left/0.23.1680.1027/1680.-39.1920.1177@1680.-39.1920.1177" timestamp="1585886728906" />
+    <state width="1638" height="177" key="GridCell.Tab.1.left/0.23.1680.1027@0.23.1680.1027" timestamp="1585811920951" />
+    <state width="1638" height="315" key="GridCell.Tab.1.right" timestamp="1585886728907">
+      <screen x="1680" y="-39" width="1920" height="1177" />
     </state>
     <state width="1638" height="284" key="GridCell.Tab.1.right/0.0.1680.1050/-138.-1177.1920.1177@0.0.1680.1050" timestamp="1581834002345" />
     <state width="1638" height="352" key="GridCell.Tab.1.right/0.0.1680.1050/-138.-1200.1920.1200@0.0.1680.1050" timestamp="1582229080465" />
     <state width="1878" height="602" key="GridCell.Tab.1.right/0.0.1680.1050/1680.-150.1920.1200@1680.-150.1920.1200" timestamp="1579752052067" />
     <state width="1638" height="352" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1582261983674" />
     <state width="1878" height="578" key="GridCell.Tab.1.right/0.23.1440.877/-212.-1177.1920.1177@-212.-1177.1920.1177" timestamp="1577692453224" />
-    <state width="1878" height="581" key="GridCell.Tab.1.right/0.23.1440.877/-38.-1177.1920.1177@-38.-1177.1920.1177" timestamp="1576963410244" />
     <state width="1398" height="411" key="GridCell.Tab.1.right/0.23.1440.877/-38.-1177.1920.1177@0.23.1440.877" timestamp="1577576582918" />
     <state width="1878" height="578" key="GridCell.Tab.1.right/0.23.1440.877/1440.-277.1920.1177@1440.-277.1920.1177" timestamp="1577616038998" />
     <state width="1878" height="577" key="GridCell.Tab.1.right/0.23.1440.877/1440.-314.1920.1177@1440.-314.1920.1177" timestamp="1578119903455" />
-    <state width="1638" height="334" key="GridCell.Tab.1.right/0.23.1680.1027/-198.-1177.1920.1177@0.23.1680.1027" timestamp="1584929006009" />
+    <state width="1638" height="334" key="GridCell.Tab.1.right/0.23.1680.1027/-198.-1177.1920.1177@0.23.1680.1027" timestamp="1585372869653" />
     <state width="1638" height="334" key="GridCell.Tab.1.right/0.23.1680.1027/-262.-1177.1920.1177@0.23.1680.1027" timestamp="1584332660070" />
-    <state width="1638" height="334" key="GridCell.Tab.1.right/0.23.1680.1027@0.23.1680.1027" timestamp="1584913648692" />
+    <state width="1638" height="147" key="GridCell.Tab.1.right/0.23.1680.1027/1680.-39.1920.1177@0.23.1680.1027" timestamp="1585788560853" />
+    <state width="1638" height="315" key="GridCell.Tab.1.right/0.23.1680.1027/1680.-39.1920.1177@1680.-39.1920.1177" timestamp="1585886728907" />
+    <state width="1638" height="177" key="GridCell.Tab.1.right/0.23.1680.1027@0.23.1680.1027" timestamp="1585811920952" />
     <state x="552" y="95" key="SettingsEditor" timestamp="1584335238972">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="341" y="164" key="SettingsEditor/0.0.1680.1050/-138.-1200.1920.1200@0.0.1680.1050" timestamp="1581286947052" />
     <state x="552" y="95" key="SettingsEditor/0.23.1680.1027/-262.-1177.1920.1177@0.23.1680.1027" timestamp="1584335238972" />
     <state x="552" y="95" key="SettingsEditor/0.23.1680.1027@0.23.1680.1027" timestamp="1583466841442" />
-    <state x="2205" y="235" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1577608130052">
-      <screen x="1440" y="-277" width="1920" height="1177" />
+    <state x="2120" y="190" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1585870261006">
+      <screen x="1680" y="-39" width="1920" height="1177" />
+    </state>
+    <state x="2120" y="190" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1680.1027/1680.-39.1920.1177@1680.-39.1920.1177" timestamp="1585870261006" />
+    <state x="2445" y="473" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585805191136">
+      <screen x="1680" y="-39" width="1920" height="1177" />
     </state>
     <state x="2205" y="235" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.877/1440.-277.1920.1177@1440.-277.1920.1177" timestamp="1577608130052" />
-    <state x="449" y="246" width="783" height="773" key="search.everywhere.popup" timestamp="1584910418271">
-      <screen x="0" y="23" width="1680" height="1027" />
+    <state x="2445" y="473" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1680.1027/1680.-39.1920.1177@1680.-39.1920.1177" timestamp="1585805191136" />
+    <state x="2347" y="198" key="refactoring.ChangeSignatureDialog" timestamp="1585862885853">
+      <screen x="1680" y="-39" width="1920" height="1177" />
+    </state>
+    <state x="2347" y="198" key="refactoring.ChangeSignatureDialog/0.23.1680.1027/1680.-39.1920.1177@1680.-39.1920.1177" timestamp="1585862885853" />
+    <state x="2193" y="217" width="895" height="886" key="search.everywhere.popup" timestamp="1585883899933">
+      <screen x="1680" y="-39" width="1920" height="1177" />
     </state>
     <state x="1953" y="-58" width="894" height="885" key="search.everywhere.popup/0.23.1440.877/1440.-314.1920.1177@1440.-314.1920.1177" timestamp="1578014072270" />
+    <state x="2193" y="217" width="895" height="886" key="search.everywhere.popup/0.23.1680.1027/1680.-39.1920.1177@1680.-39.1920.1177" timestamp="1585883899933" />
     <state x="449" y="246" width="783" height="773" key="search.everywhere.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1584910418271" />
   </component>
   <component name="XDebuggerManager">
@@ -702,19 +798,78 @@
           <line>20</line>
           <option name="timeStamp" value="36" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Leetcode/Leetcode-LRU Cache.py</url>
+          <line>42</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Leetcode/src/Leetcode - LFU Cache.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Leetcode/Leetcode - Premium/Google/Odd Even Jump.py</url>
+          <line>71</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Leetcode/Leetcode - Premium/Google/License Key Formatting.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Leetcode/Leetcode - Premium/Google/Longest Substring Without Repeating Characters.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Leetcode/Leetcode - Premium/Google/Container With Most Water.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Leetcode/30dayschallenge/Happy Number.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Leetcode/Leetcode - Premium/Google/3Sum.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Leetcode/Leetcode - Premium/Google/Multiply String.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Leetcode/Leetcode - Premium/Google/Rotate Image.py</url>
+          <line>51</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode___Counting_Bits.coverage" NAME="Leetcode - Counting Bits Coverage Results" MODIFIED="1584335244932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Multiply_String.coverage" NAME="Multiply String Coverage Results" MODIFIED="1585872721465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode/Leetcode - Premium/Google" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Longest_Substring_Without_Repeating_Characters.coverage" NAME="Longest Substring Without Repeating Characters Coverage Results" MODIFIED="1585803193550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode/Leetcode - Premium/Google" />
     <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode___Decode_String.coverage" NAME="Leetcode - Decode String Coverage Results" MODIFIED="1584332159089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
     <SUITE FILE_PATH="coverage/Competitive_Programming$Recursion__Fibonacci_Numbers.coverage" NAME="Recursion: Fibonacci Numbers Coverage Results" MODIFIED="1582259766749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hackerrank" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode___LFU_Cache.coverage" NAME="Leetcode - LFU Cache Coverage Results" MODIFIED="1585359570833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode/src" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode____Longest_Palindromic_Substring.coverage" NAME="Leetcode -  Longest Palindromic Substring Coverage Results" MODIFIED="1585364302325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode/src" />
     <SUITE FILE_PATH="coverage/Competitive_Programming$solution.coverage" NAME="solution Coverage Results" MODIFIED="1582229064053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Google Hashcode 2020" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Jump_Game.coverage" NAME="Jump Game Coverage Results" MODIFIED="1585881474751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode/Leetcode - Premium/Google" />
     <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode___Find_All_Anagrams_in_a_String.coverage" NAME="Leetcode - Find All Anagrams in a String Coverage Results" MODIFIED="1584335292087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
     <SUITE FILE_PATH="coverage/Competitive_Programming$Plate.coverage" NAME="Plate Coverage Results" MODIFIED="1584854132265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Kickstart2020" />
     <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode___Count_Negative_Numbers_in_a_Sorted_Matrix.coverage" NAME="Leetcode - Count Negative Numbers in a Sorted Matrix Coverage Results" MODIFIED="1581820934930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Rotate_Image.coverage" NAME="Rotate Image Coverage Results" MODIFIED="1585880041100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode/Leetcode - Premium/Google" />
     <SUITE FILE_PATH="coverage/Competitive_Programming$Hackerrank___Frequency_Queries.coverage" NAME="Hackerrank - Frequency Queries Coverage Results" MODIFIED="1581303207485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hackerrank" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Unique_Email_Addresses.coverage" NAME="Unique Email Addresses Coverage Results" MODIFIED="1585787024829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode/Leetcode - Premium/Google" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Minimum_Window_Substring.coverage" NAME="Minimum Window Substring Coverage Results" MODIFIED="1585887051893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode/Leetcode - Premium/Google" />
     <SUITE FILE_PATH="coverage/Competitive_Programming$TuSimple.coverage" NAME="TuSimple Coverage Results" MODIFIED="1584811028003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hackerrank" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$License_Key_Formatting.coverage" NAME="License Key Formatting Coverage Results" MODIFIED="1585791103576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode/Leetcode - Premium/Google" />
     <SUITE FILE_PATH="coverage/Competitive_Programming$LinkedList_test.coverage" NAME="LinkedList.test Coverage Results" MODIFIED="1583469267213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CTCI/Chapter 2 - Linked List" />
     <SUITE FILE_PATH="coverage/Competitive_Programming$main.coverage" NAME="main Coverage Results" MODIFIED="1584851567155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Kickstart2020" />
     <SUITE FILE_PATH="coverage/Competitive_Programming$Indeed.coverage" NAME="Indeed Coverage Results" MODIFIED="1583446834209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hackerrank" />
@@ -722,16 +877,25 @@
     <SUITE FILE_PATH="coverage/Competitive_Programming$Recursion__Davis__Staircase.coverage" NAME="Recursion: Davis' Staircase Coverage Results" MODIFIED="1583445940678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hackerrank" />
     <SUITE FILE_PATH="coverage/Competitive_Programming$Matching_Phone_Number_with_Keywords.coverage" NAME="Matching Phone Number with Keywords Coverage Results" MODIFIED="1581468431970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interviewQuestions" />
     <SUITE FILE_PATH="coverage/Competitive_Programming$Problem_D_Arithmetic.coverage" NAME="Problem D Arithmetic Coverage Results" MODIFIED="1582189125882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Kattis/SJSU Weekly Practice Problems 2-19" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$3Sum.coverage" NAME="3Sum Coverage Results" MODIFIED="1585864361518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode/Leetcode - Premium/Google" />
     <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode___House_Robber_III.coverage" NAME="Leetcode - House Robber III Coverage Results" MODIFIED="1584910537005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
     <SUITE FILE_PATH="coverage/Competitive_Programming$Allocation.coverage" NAME="Allocation Coverage Results" MODIFIED="1584851388295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Kickstart2020" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode___Partition_Equal_Subset_Sum.coverage" NAME="Leetcode - Partition Equal Subset Sum Coverage Results" MODIFIED="1585185536208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode/src" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode_LRU_Cache.coverage" NAME="Leetcode-LRU Cache Coverage Results" MODIFIED="1585194183751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Happy_Number.coverage" NAME="Happy Number Coverage Results" MODIFIED="1585859380049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode/30dayschallenge" />
     <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode__Spiral_Matrix.coverage" NAME="Leetcode- Spiral Matrix Coverage Results" MODIFIED="1581815830072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
-    <SUITE FILE_PATH="coverage/Competitive_Programming$anotherFile.coverage" NAME="anotherFile Coverage Results" MODIFIED="1584928336961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$anotherFile.coverage" NAME="anotherFile Coverage Results" MODIFIED="1585808779635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode__Product_of_the_Last_K_Numbers.coverage" NAME="Leetcode -Product of the Last K Numbers Coverage Results" MODIFIED="1581825287980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Fruit_Into_Baskets.coverage" NAME="Fruit Into Baskets Coverage Results" MODIFIED="1585798911482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode/Leetcode - Premium/Google" />
     <SUITE FILE_PATH="coverage/Competitive_Programming$Leetcode___House_Robber_II.coverage" NAME="Leetcode - House Robber II Coverage Results" MODIFIED="1584929070482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode/src" />
     <SUITE FILE_PATH="coverage/Competitive_Programming$Hackerrank___Merge_Sort__Counting_Inversions.coverage" NAME="Hackerrank - Merge Sort: Counting Inversions Coverage Results" MODIFIED="1581308133790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hackerrank" />
     <SUITE FILE_PATH="coverage/Competitive_Programming$Workout.coverage" NAME="Workout Coverage Results" MODIFIED="1584907488301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Kickstart2020" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Next_Permutation.coverage" NAME="Next Permutation Coverage Results" MODIFIED="1585870272067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode/Leetcode - Premium/Google" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Container_With_Most_Water.coverage" NAME="Container With Most Water Coverage Results" MODIFIED="1585808480018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode/Leetcode - Premium/Google" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Odd_Even_Jump.coverage" NAME="Odd Even Jump Coverage Results" MODIFIED="1585788559860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode/Leetcode - Premium/Google" />
     <SUITE FILE_PATH="coverage/Competitive_Programming$Problem_A___Jackpot.coverage" NAME="Problem A - Jackpot Coverage Results" MODIFIED="1582185896210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Kattis/SJSU Weekly Practice Problems 2-19" />
     <SUITE FILE_PATH="coverage/Competitive_Programming$example.coverage" NAME="example Coverage Results" MODIFIED="1582188975363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Kattis/SJSU Weekly Practice Problems 2-19" />
     <SUITE FILE_PATH="coverage/Competitive_Programming$solution__1_.coverage" NAME="solution (1) Coverage Results" MODIFIED="1583532105297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CTCI" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Plusone.coverage" NAME="Plusone Coverage Results" MODIFIED="1585881594908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode/Leetcode - Premium/Google" />
   </component>
 </project>
