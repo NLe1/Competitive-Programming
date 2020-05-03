@@ -1,4 +1,2 @@
-import itertools
-c = "AAPPAPAAABAA"
-for k, g in itertools.groupby(c):
-    print(k,len(list(g)))
+a = "1234"
+print(a[3:])
